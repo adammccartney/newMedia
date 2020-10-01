@@ -1,0 +1,264 @@
+* Overview 
+
+** Course Structure
+This course is an introduction to media theory – a subcategory of
+philosophy that emerged in the mid 20th century as an attempt to
+understand the impact that new technologies were having on the
+individual and, in a broader sense, society. 
+The general tone used to convey the ideas contained throughout the
+notes and lectures will be an informal one, you refers to you the
+reader, listener and student. We refers to the teachers, authors and 
+students that have been consulted in developing the material for this 
+course. Us refers to the group that we happen to find ourselves in at 
+any particular moment in time. And I refers to me, the teacher, Adam McCartney.  
+This course is intended to introduce undergraduate level music
+students to the broader disciplines relevant for professional work in 
+the arts and humanities. There are those who would consider it absurd 
+that now, in the 21st century, investing in anything but a science
+related degree is simply a waste. In the face of such beliefs, it is 
+worth pausing briefly to remember a simple point made by John Henry
+Newman, that a solid education in the liberal arts equips a student
+with tools that will ultimately lead them to become better engineers, 
+scientists, doctors, artists, lawyers and etc.   
+
+
+** Philosophy of Teaching
+[[./descartes.png]]
+The satisfaction that can be gained through learning, teaching and
+generally sharing information and can be immense. My more positive 
+experiences over the years as a student and teacher have tended to 
+come from courses, books, tutorials, videos, discussions that were 
+clear enough to allow enable an understanding of the topic from 
+first principles – that is to say that the material related to 
+the topic was assembled in such a way as to reveal its most
+fundamental ideas. Its virtually always beneficial to ask rudimentary 
+questions about whatever it is that we are trying to understand, as 
+such questions will quickly reveal whether or not the topic under 
+discussion has a basis in fact. 
+This course also aims to introduce some of the core methods that are
+useful anywhere that it becomes necessary to think about something:
+
++ Discourse
++ Reason
++ Logic
++ Debate
++ Reference
+
+
+*** 7 Liberal Arts of the medieval university
++ Grammar
++ Rhetoric
++ Logic
++ Geometry
++ Arithmetic
++ Music 
++ Astronomy
+
+** Where and how to access material 
+The primary source of information for topics presented in this course
+can be found in the VMI digital library, which is labelled /Academic
+Resources For Students/ and will appear as a link on the homepage of
+your Moodle eLearning profile. 
+Please take the time to do the readings, this will prepare you for the
+discussions that will take place during class. Thinking about things
+is a practical exercise, it‘s the same as riding a bicycle or learning
+to play an instrument. That means that the only way that you are going
+to learn how to think is by engaging with the readings and
+exercises. Much the same as any activity that is worth learning,
+thinking is difficult and takes a lot of patience to get right. 
+The texts that were chosen to be part of the course are all written in
+an accessible style and are not overtly academic or
+technical. Nevertheless, they do contain  ideas and arguments that you
+might not get on the first reading.  My two favorite reading
+disciplines  from when I was an undergraduate were the practice of
+reading for a pre-allocated amount of time and also reading each text
+at least three times in preparation for a class. 
+
+** Portability and how to apply course content
+Should you try and tell your piano tuner about Ludwig Wittgenstein‘s
+ideas on the formation of knowledge? Definitely not! In fact, they
+would be more likely to charge you extra fees just to get your piano
+tuned if you chose to do so. 
+So where exactly can this knowledge be applied? A friend of mine is a
+hobby programmer and he recently told me his principle approach to
+work. He called it „eat your own dogfood“. Now obviously the idea of
+eating any kind of dogfood does not sound particularly appetizing, but
+it is worth considering that dogs can also eat cake. The simple idea
+here is that whatever type of idea or discipline you develop, it is
+better first practiced on yourself before inflicting it upon the rest
+of us; when properly cultivated a discipline is a way to nourish,
+develop and sustain.
+
+
+
+
+* The long 19th century (1789 - 1914)
+
+*** A brief history of art leading up to the industrial revolution
+The renaissance had shown that the rise of merchant classes was
+possible, and that there was room for a talented craftsperson to build
+a career out of a good reputation. Still, even the most talented
+artists from the renaissance and baroque periods werde subjects of
+some royal court and often patronized (though less commonly so than in
+the middle ages and early renaissance) by the clergy. The dominant
+motives of these eras were, for instance, dedicated to the nobility
+and to the church. An appreciation for human ingenuity was growing and
+quietly, a new philosophy of reason and enlightenment was being born. 
+
+
+*** Art in the Age of Revolution (1789 - 1848)
+
+Before it turned into a bloody mess, the core ideals of the French
+Revolution (freedom, equality and brotherhood) seemed to be an
+articulation of the broader hopes of humanity for a brighter future. 
+Many of the artists of the late 18th and early 19th centuries echoed
+these newly formed ideas of the enlightenment. 
+
++ 50 years that included late Mozart, Haydn, Beethoven, Schubert, Goethe, Dickets,
+  Dostoievsky, Verdi, Wagner
++ Art made to appeal to a literate public that was increasing in
+  size 
++ The invention of machinery reduced the cost of physical labor for
+  many, meaning there was more free time for education and pastimes
++ Aesthetic themes often contained pastoral elements, or sought to
+  simplify harmonies and form.
++ The influence from classical antiquity frequently appear, along with
+  references to similar threads from the renaissance
+
+#+CAPTION: William Turner - Rain, Steam and Speed
+[[./Turner_-_Rain,_Steam_and_Speed_-_National_Gallery_file.jpg]] 
+
+*** Utopia 
+
+Much of the art of the age focused utopian ideals, be they either in
+some possible future or some glorified past: there were large
+collections of folk tales, songs and verses that emerged during this
+period that bore testiment to the vision of "the folk" as being
+inherently virtuous. The new movements toward industrialized living
+and a faster pace of life, on the other hand, was often viewed with at
+least the usual amount of suspicion. Of course, the of a fall from
+grace and the quest for redemption is literally as old as Adam and Eve.
+
+*** Art in the Age of Capital (1848 - 1875)
+
+Having seen what the first half of the 19th century delivered in terms
+of the arts, it's not surprising that this period during the later half of
+the century appears somewhat underwhelming. Perhaps the real
+achievements.
++ the era produced a rather curious archictural style with
+  increasingly large proportions - this marks a contrast to the
+  classicaly influences in the styles (like Biedermeier) that
+  immediately preceded, where in central focus were human proportions
++ funding structures of the arts changed: they were now supported by
+  governments, bourgeoisie and incresingly the emerging working /
+  middle class
++ the viennese ring serves as a good example to the monuments of the age
++ first appearance of technically reproducable works of art (early
+  photo camera had an immediate and profound effect on painting
++ arts were in every sense popular by the third quarter of the
+  century, with widely distributed novels 
++ possible for artists to earn a good living and many (even if not
+  rich) were well respected
++ arts came to occupy a semi-religious position for many of the new
+  middle class, also (in the case of the German speaking world) a
+  symbol of success and status to rival Britain's economic spoils
++ the artists were seen as sources of truth, authorities on beauty 
+
+
+
+*** Art in the Age of Empire (1875 - 1914) 
+Bourgeois identity crisis
++ orientalism
++ pastiche
+
+Established and entitled artistic circles 
++ the Seccessions of Vienna & Berlin
++ the New English Arts Club
++ successors to the French Impressionist Exhibition
+
+The emergence of the avant-garde 
++ very limited public reception
++ the anti-reality star? (like Picasso, appreciated for their
+  phenomenal output as opposed to the qualities or content of the work) 
+
+The birth of cinema
+
+
+** The short 20th century (1914 - 1996): Art in the Age of Extremes
+*** Features of the early 20th century art landscape
+
++ Modernism
++ Dadaism, Constructivism, Surrealism
++ Decided move away from conventional Bourgeois tastes
++ Europe (Paris) between the wars
++ The invention of cinema & jazz
++ Battleship Potemkin { watch?v=VMWMq4AEyjU }
++ Jazz: syncopated afro rhythms meets mechanical reproduction
++ Murillo was out El Greco was in
++ Also rejected: Age of Capital and Age of Empire
++ Viennese Ring considered pompus & inauthentic
++ most of the avant garde artists identified with progressive politics
++ rise of Hitler and Stalin meant that most of the avant garde immigrated to the USA
++ James Joyce Ulysses: going to the common man
++ Mass media and propaganda
+
+*** Postwar Arts
+
++ Rock & Roll, the LP
++ the advertising industry
++ the emergence of pop art
++ Shift away from Europe
++ The establishment new social democratic norms post 1950 - massive increase government funding for the arts tax-breaks in the States for wealthy patrons
++ Art as Investment
++ Massive Expansion of higher education
++ Classical music - decline in old genres concealed by the enormous increase in their performance mostly a repertoire of dead classics
++ Personal Electronics
+
+
+* Key works in the developoment of media theory
+** Walther Benjamin: The Work of Art in the Age of Mechanical Reproduction
+
+** Marshall McCluhan: The Medium is the message
+[[https://web.mit.edu/allanmc/www/mcluhan.mediummessage.pdf]]
+
+
+* Hackers and the open source movement
+
+** Eric Raymond
+*** How to become a hacker
+[[http://www.catb.org/esr/faqs/hacker-howto.html]]
+*** The new hacker's dictionary
+[[http://hackersdictionary.com/html/index.html]]
+
+* Navigating the digital world in the time of soul sucking mega corporations
+
+** Douglas Rushkoff and Team Human
+*** Program or be Programmed
+[[https://www.youtube.com/watch?v=imV3pPIUy1k&feature=youtu.be]]
+
+*** Team Human Podcast
+[[https://teamhuman.fm]]
+
+* A brief history of epistemology
+** A few short points on the formation of knowledge
+*** Ancient 
+*** Early Modern
+*** National States Period
+*** Contemporary Perspectives
+
+* Adaptation and Adoption
+** Features of Intagibles
+** Shared Strategies – the automaton blues
+
+* Course Work
+Semester requirements are to do the readings, and submit two essays,
+one short (ca. 1000 words) and one longer (ca. 2500 words). Actually,
+the medium that you present these works is flexible - in the past
+students have produced podcasts, written essays, made lesson
+plans. The important thing is that you work on forming an idea an
+presenting it in a coherant way. 
+
+** Where are the best places to borrow ideas?
+** Can we please make music theory a little less boring?
+
+
