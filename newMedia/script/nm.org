@@ -115,7 +115,7 @@ Many of the artists of the late 18th and early 19th centuries echoed
 these newly formed ideas of the enlightenment. 
 
 + 50 years that included late Mozart, Haydn, Beethoven, Schubert, Goethe, Dickets,
-  Dostoievsky, Verdi, Wagner
+  Dostoievsky, Verdi, Wagner, Mary Wollstonecraft, Mary Shelly
 + Art made to appeal to a literate public that was increasing in
   size 
 + The invention of machinery reduced the cost of physical labor for
@@ -215,8 +215,118 @@ The birth of cinema
 + Personal Electronics
 
 
-* Key works in the developoment of media theory
-** Walther Benjamin: The Work of Art in the Age of Mechanical Reproduction
+* Aesthetic and sociological perspectives
+
+** Critical Theory
+
+Reference: https://plato.stanford.edu/entries/critical-theory/
+
+In the narrow sense, critical theory refers to a strain of Marxist
+philosophy that appeared in early 20th century Germany. It is critical
+in the sense that it seeks human "emancipation from slavery", acts as
+a "liberating ... influence", and works to "create a world wchich
+satifies the needs and powers" of human beings (Horkheimer 1972, 246)
+
+Key figures of "the Frankfurt School": Max Horkheimer, Theodor Adorno,
+Marcuse, Benjamin
+
+Being a strain of Marxist philosophy, central to critical theory is a
+critique of Capitalism. Furthermore, a strong emphasis is placed on a
+belief that civil society and human culture in general is undergoing a
+process of degeneration due to the commodification of artistic
+production and aesthetic experience. 
+
+It could be argued that much of critical theory is based on a
+revivification of an aspect of Kant's categorical imperative: namely,
+that one should avoid using people (including oneself) as a means to
+an end. A critical theorist such as Adorno might argue that
+contemporary pop that has been used in the service of some form of
+advertising, is ultimately less moral and therefor less good or
+effective than say, Beethoven's 7th symphony. (Adorno /really/ liked
+Beethoven and was big into the idea of "absolute" music).
+
+By the same reasoning, one could argue that the whole discipline of
+Critical Theory is morally corupt due to the simple fact that it
+essentially seeks to hi-jack and politicize branches of philosophy
+such as aesthetics (which are by no means inherently political).
+
+*** Walter Benjamin
+A Berlin born art theorist / philosopher whose writings were a large
+influence on Theodor Adorno. Also a fairly dedicated Marxist, who 
+
+*** The Work of Art in the Age of Mechanical Reproduction
+
+
+** John Dewey's Aesthetics 
+*** Pragmatism
+Originated in the United States towards the end of the 19th century,
+largely as a reastion to what was considered the overly theoretical 
+and technical nature of continental philosophy.
+
+Notable Figures included William James and George Herbert Mead, who
+had the idea that it was only possible to define a person through
+their actions in the world.
+
+*** The Live Creature
+
+Notes on reading: https://plato.stanford.edu/entries/dewey-aesthetics/
+
+First couple of points to note relate to the historical evolution of
+aesthetics. With the rise of nationalism and imperialism, art became
+dissasociated from religious right and with the growing dominance of
+capitalism, became more about documenting material wealth than
+integrating personal with collective experience. 
+
+This idea of the quality of experience is seemingly central to Dewey's
+aesthetics. It follows quite logically that experience happens
+essentially in conjunction with the environment and not just /in/
+it. Whether or not life experience can be reduced solely to the basis
+of needs and conquest, is not so clear. I do not think that it is self
+evident that all conflict and resolution arises from the frustration
+or gratification of basic physical or physio-psychological urges. 
+
+Nevertheless, it is possible to imagine how Dewey might try to
+structure his thought at this stage as he suggests that harmony and
+equilibrium arise from the resolution of tension. Awareness of this
+process, the rhythmic alteration between states of unity and disunity
+signifies conscious participation in the phenomenon of experience. 
+
+Dewey seems to suggest here that emotions are breaks in experience,
+something to be understood in retrospect. More specifically he refers
+to emotions as signifiers that disrupt experience. This does make some
+sense, as the presence of an emotion seems, quite certainly, to
+require a level of abstraction that seems to move the subject into an
+acute awareness of the distinct mode, through which he now views experience. 
+
+He sets up an interesting comparison between scientist and artist,
+shows that both are trying to shape material according to their thought prosesses. 
+
+He points out that nature already has emotional qualities. That some
+aspects may appear comforting or disturbing. 
+
+Aesthetic experience then involves a temporal process where action,
+feeling and meaning are one.  The cumulative effect of these on one
+another is balance. This is only possible, in a dynamic world, where
+experience takes place. 
+
+Passing out of disturbance into harmony can provide man's most intense
+experience. Happiness is the result of a deep fulfillment in which our
+whole being has adjusted to the environment. This seems to directly
+contradict what he says above about emotion, although on a more subtle
+level he seems to be suggesting something closer to integration here
+than happiness. Personally, I would place the core of aesthetics at integration. 
+
+*** Emotions
+
+The previous section suggests that aesthetics is essentially an act of
+integration. The experience of this act, ultimately leads to an
+emotional experience. Emotions are not static, they posses dynamic
+qualities and can grow or shrink over time. 
+
+
+
+
+
 
 ** Marshall McCluhan: The Medium is the message
 [[https://web.mit.edu/allanmc/www/mcluhan.mediummessage.pdf]]
