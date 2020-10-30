@@ -96,9 +96,9 @@ develop and sustain.
 
 *** A brief history of art leading up to the industrial revolution
 The renaissance had shown that the rise of merchant classes was
-possible, and that there was room for a talented craftsperson to build
+possible, and that there was room for a talented craftspeople to build
 a career out of a good reputation. Still, even the most talented
-artists from the renaissance and baroque periods werde subjects of
+artists from the renaissance and baroque periods were subjects of
 some royal court and often patronized (though less commonly so than in
 the middle ages and early renaissance) by the clergy. The dominant
 motives of these eras were, for instance, dedicated to the nobility
@@ -114,8 +114,8 @@ articulation of the broader hopes of humanity for a brighter future.
 Many of the artists of the late 18th and early 19th centuries echoed
 these newly formed ideas of the enlightenment. 
 
-+ 50 years that included late Mozart, Haydn, Beethoven, Schubert, Goethe, Dickets,
-  Dostoievsky, Verdi, Wagner, Mary Wollstonecraft, Mary Shelly
++ 50 years that included late Mozart, Haydn, Beethoven, Schubert, Goethe, Dickens,
+  Dostoevsky, Verdi, Wagner, Mary Wollstonecraft, Mary Shelly
 + Art made to appeal to a literate public that was increasing in
   size 
 + The invention of machinery reduced the cost of physical labor for
@@ -130,10 +130,10 @@ these newly formed ideas of the enlightenment.
 
 *** Utopia 
 
-Much of the art of the age focused utopian ideals, be they either in
+Much of the art of the age focused Utopian ideals, be they either in
 some possible future or some glorified past: there were large
 collections of folk tales, songs and verses that emerged during this
-period that bore testiment to the vision of "the folk" as being
+period that bore testament to the vision of "the folk" as being
 inherently virtuous. The new movements toward industrialized living
 and a faster pace of life, on the other hand, was often viewed with at
 least the usual amount of suspicion. Of course, the of a fall from
@@ -145,15 +145,15 @@ Having seen what the first half of the 19th century delivered in terms
 of the arts, it's not surprising that this period during the later half of
 the century appears somewhat underwhelming. Perhaps the real
 achievements.
-+ the era produced a rather curious archictural style with
++ the era produced a rather curious architectural style with
   increasingly large proportions - this marks a contrast to the
-  classicaly influences in the styles (like Biedermeier) that
+  classically influences in the styles (like Biedermeier) that
   immediately preceded, where in central focus were human proportions
 + funding structures of the arts changed: they were now supported by
-  governments, bourgeoisie and incresingly the emerging working /
+  governments, bourgeoisie and increasingly the emerging working /
   middle class
-+ the viennese ring serves as a good example to the monuments of the age
-+ first appearance of technically reproducable works of art (early
++ the Viennese ring serves as a good example to the monuments of the age
++ first appearance of technically reproducible works of art (early
   photo camera had an immediate and profound effect on painting
 + arts were in every sense popular by the third quarter of the
   century, with widely distributed novels 
@@ -168,15 +168,15 @@ achievements.
 
 *** Art in the Age of Empire (1875 - 1914) 
 Bourgeois identity crisis
-+ orientalism
++ Orientalism
 + pastiche
 
 Established and entitled artistic circles 
-+ the Seccessions of Vienna & Berlin
++ the Successions of Vienna & Berlin
 + the New English Arts Club
 + successors to the French Impressionist Exhibition
 
-The emergence of the avant-garde 
+The emergence of the avaunt-grade 
 + very limited public reception
 + the anti-reality star? (like Picasso, appreciated for their
   phenomenal output as opposed to the qualities or content of the work) 
@@ -184,7 +184,7 @@ The emergence of the avant-garde
 The birth of cinema
 
 
-** The short 20th century (1914 - 1996): Art in the Age of Extremes
+** The short 20Th century (1914 - 1996): Art in the Age of Extremes
 *** Features of the early 20th century art landscape
 
 + Modernism
@@ -193,10 +193,10 @@ The birth of cinema
 + Europe (Paris) between the wars
 + The invention of cinema & jazz
 + Battleship Potemkin { watch?v=VMWMq4AEyjU }
-+ Jazz: syncopated afro rhythms meets mechanical reproduction
++ Jazz: syncopated Afro rhythms meets mechanical reproduction
 + Murillo was out El Greco was in
 + Also rejected: Age of Capital and Age of Empire
-+ Viennese Ring considered pompus & inauthentic
++ Viennese Ring considered pompous & inauthentic
 + most of the avant garde artists identified with progressive politics
 + rise of Hitler and Stalin meant that most of the avant garde immigrated to the USA
 + James Joyce Ulysses: going to the common man
@@ -223,8 +223,8 @@ Reference: https://plato.stanford.edu/entries/critical-theory/
 In the narrow sense, critical theory refers to a strain of Marxist
 philosophy that appeared in early 20th century Germany. It is critical
 in the sense that it seeks human "emancipation from slavery", acts as
-a "liberating ... influence", and works to "create a world wchich
-satifies the needs and powers" of human beings (Horkheimer 1972, 246)
+a "liberating ... influence", and works to "create a world which
+satisfies the needs and powers" of human beings (Horkheimer 1972, 246)
 
 Key figures of "the Frankfurt School": Max Horkheimer, Theodor Adorno,
 Marcuse, Benjamin
@@ -245,7 +245,7 @@ effective than say, Beethoven's 7th symphony. (Adorno /really/ liked
 Beethoven and was big into the idea of "absolute" music).
 
 By the same reasoning, one could argue that the whole discipline of
-Critical Theory is morally corupt due to the simple fact that it
+Critical Theory is morally corrupt due to the simple fact that it
 essentially seeks to hi-jack and politicize branches of philosophy
 such as aesthetics (which are by no means inherently political).
 
@@ -258,7 +258,7 @@ influence on Theodor Adorno. Also a fairly dedicated Marxist, who
 ** John Dewey's Aesthetics 
 *** Pragmatism
 Originated in the United States towards the end of the 19th century,
-largely as a reastion to what was considered the overly theoretical 
+largely as a reaction to what was considered the overly theoretical 
 and technical nature of continental philosophy.
 
 Notable Figures included William James and George Herbert Mead, who
@@ -271,7 +271,7 @@ Notes on reading: https://plato.stanford.edu/entries/dewey-aesthetics/
 
 First couple of points to note relate to the historical evolution of
 aesthetics. With the rise of nationalism and imperialism, art became
-dissasociated from religious right and with the growing dominance of
+disassociated from religious right and with the growing dominance of
 capitalism, became more about documenting material wealth than
 integrating personal with collective experience. 
 
@@ -297,7 +297,7 @@ require a level of abstraction that seems to move the subject into an
 acute awareness of the distinct mode, through which he now views experience. 
 
 He sets up an interesting comparison between scientist and artist,
-shows that both are trying to shape material according to their thought prosesses. 
+shows that both are trying to shape material according to their thought processes. 
 
 He points out that nature already has emotional qualities. That some
 aspects may appear comforting or disturbing. 
@@ -328,7 +328,7 @@ qualities and can grow or shrink over time.
 
 
 * Media Theory
-** Marshall McCluhan
+** Marshall McLuhan
 *** Biographical Note
 + born Edmonton, Canada 1911
 + died 1980
@@ -347,7 +347,7 @@ theoretical and applied) during the first half of the 20th century.
 
 + Bertrand Russell and Alfred North Whitehead had published "Principia
   Mathematica", both of whom held professorships in mathematics at Cambridge
-+ Ludwig Wittgenstein started a fellowship at the Univesity in 1929
++ Ludwig Wittgenstein started a fellowship at the University in 1929
 + Alan Turing studied there as an undergrad from 1931 to 1934 and was
   elected a fellow of King's College in 1935 (at age 22) after his
   dissertation offering a proof of central limit theorem was well
@@ -368,7 +368,7 @@ It seems that I.A. Richards was particularly interested in forming a
 new, multidisciplinary approach to literary criticism that could give
 formalist, self-contained and objective accounts of what was being
 said in any literary work. It appears that to some degree, Richards
-was trying to encorporate cybernetics into his theories on literary
+was trying to incorporate cybernetics into his theories on literary
 criticism.
 
 Thinking about the human mind as one part of a cybernetic system, was
@@ -382,17 +382,17 @@ career.
 
 In "The Gutenberg Galaxy" McLuhan presents a dazzling array of ideas,
 that often closely focus on the multi-sensory (or multi-dimensional)
-context of litarary idaes. For instance, he writes about Shakespeare's
+context of literary ideas. For instance, he writes about Shakespeare's
 use of perspective in King Lear, pointing out that it may be the first
 time that a writer has employed the use of a three-dimensional first
 person perspective on a scene within the context of a literary
 work. For McLuhan, the interesting point here is that the written word
-seems to been reaching out beyond the page, and envoking our other
+seems to been reaching out beyond the page, and evoking our other
 senses to aid our perception of the scene. 
 
 Print is an extension of writing, which itself is an extension of
 speaking and in turn thinking. The process is inherently circular,
-a new technology emerges to form a superset of the technology that
+a new technology emerges to form a super set of the technology that
 immediately preceded it. 
 
 For McLuhan, technology is always an extension of the mind (the
@@ -475,7 +475,7 @@ one short (ca. 1000 words) and one longer (ca. 2500 words). Actually,
 the medium that you present these works is flexible - in the past
 students have produced podcasts, written essays, made lesson
 plans. The important thing is that you work on forming an idea an
-presenting it in a coherant way. 
+presenting it in a coherent way. 
 
 ** Where are the best places to borrow ideas?
 ** Can we please make music theory a little less boring?
