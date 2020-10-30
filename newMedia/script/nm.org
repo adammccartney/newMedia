@@ -216,7 +216,6 @@ The birth of cinema
 
 
 * Aesthetic and sociological perspectives
-
 ** Critical Theory
 
 Reference: https://plato.stanford.edu/entries/critical-theory/
@@ -255,7 +254,6 @@ A Berlin born art theorist / philosopher whose writings were a large
 influence on Theodor Adorno. Also a fairly dedicated Marxist, who 
 
 *** The Work of Art in the Age of Mechanical Reproduction
-
 
 ** John Dewey's Aesthetics 
 *** Pragmatism
@@ -328,19 +326,118 @@ qualities and can grow or shrink over time.
 
 
 
-** Marshall McCluhan: The Medium is the message
+
+* Media Theory
+** Marshall McCluhan
+*** Biographical Note
++ born Edmonton, Canada 1911
++ died 1980
++ BA/MA at the University of Manitoba
++ Doctoral Studies at Cambridge
+https://www.marshallmcluhan.com/biography/
+
+
+*** Early Influence
+At Cambridge (entering in 1934) he studied under the professors I.A. Richards and
+F.R. Leavis.
+
+It's worth considering that there were some pretty incredible advances
+taking place in the fields of Mathematics and Physics (both
+theoretical and applied) during the first half of the 20th century. 
+
++ Bertrand Russell and Alfred North Whitehead had published "Principia
+  Mathematica", both of whom held professorships in mathematics at Cambridge
++ Ludwig Wittgenstein started a fellowship at the Univesity in 1929
++ Alan Turing studied there as an undergrad from 1931 to 1934 and was
+  elected a fellow of King's College in 1935 (at age 22) after his
+  dissertation offering a proof of central limit theorem was well
+  received
+
+Besides the obvious name dropping, the purpose of pointing out these
+figures is to emphasize that there was a lot of "technical" academic
+work happening at Cambridge during this time. In particular, Russell &
+Whiteheads work on finding a formal description of mathematics saw the
+development of specialist notation.
+
+In an attempt to keep up with these advances, fields more
+traditionally rooted in the humanities, themselves began to embody the
+new practices of logic and formalism as they emerged from mathematics,
+physics and early computational theory. 
+
+It seems that I.A. Richards was particularly interested in forming a
+new, multidisciplinary approach to literary criticism that could give
+formalist, self-contained and objective accounts of what was being
+said in any literary work. It appears that to some degree, Richards
+was trying to encorporate cybernetics into his theories on literary
+criticism.
+
+Thinking about the human mind as one part of a cybernetic system, was
+an idea that influenced McLuhan profoundly, and research in and around
+this idea became a central part of his work throughout the rest of his
+career. 
+
+*** The book as technology
+
+/"Water is unknown to a fish until it discovers air"/
+
+In "The Gutenberg Galaxy" McLuhan presents a dazzling array of ideas,
+that often closely focus on the multi-sensory (or multi-dimensional)
+context of litarary idaes. For instance, he writes about Shakespeare's
+use of perspective in King Lear, pointing out that it may be the first
+time that a writer has employed the use of a three-dimensional first
+person perspective on a scene within the context of a literary
+work. For McLuhan, the interesting point here is that the written word
+seems to been reaching out beyond the page, and envoking our other
+senses to aid our perception of the scene. 
+
+Print is an extension of writing, which itself is an extension of
+speaking and in turn thinking. The process is inherently circular,
+a new technology emerges to form a superset of the technology that
+immediately preceded it. 
+
+For McLuhan, technology is always an extension of the mind (the
+cognitive/sensory apparatus) and therefor it influences the formation
+of ideas.
+
+
+*** The Medium is the message
 [[https://web.mit.edu/allanmc/www/mcluhan.mediummessage.pdf]]
 
++ The nature of human relationships, interaction and work was shaped
+  by the first industrial revolution: the introduction of the machine
+  and the philosophy of the "division of labor"
+  - The essence of the electronic/digital revolution is entirely the
+    opposite of this because (integral & decentralised) 
 
-* Hackers and the open source movement
++ First principles look at the nature of certain types of business in
+  the (post)-industrialized world
+  - IBM \rightarrow information processing
+  - AT&T \rightarrow moving information
 
-** Eric Raymond
-*** How to become a hacker
-[[http://www.catb.org/esr/faqs/hacker-howto.html]]
-*** The new hacker's dictionary
-[[http://hackersdictionary.com/html/index.html]]
++ Does technology add itself on to what we already are?
 
-* Navigating the digital world in the time of soul sucking mega corporations
++ What does it mean to understanding the "grammar" of a particular technology?
+
++ How are artists in a unique position to encounter technology?
+
++ The fact that it is currently being debated as to whether big tech
+  should be treated as utilities is reminiscent of the idea that
+  technological media are resources comparable to water, coal, cotton
+  and oil.
+
++ Bertrand Russell: the technique of the suspended judgement was the
+  great discovery of the twentieth century
+
++ A.N. Whitehead said that of the 19th century it was the discovery of
+  the technique of discovery (starting with a result and working
+  backwards)
+
++ The work of the artist represents the only documentation of the
+  continuous adjustment to the various new factors of personal and
+  social life as they are extended.
+
++ The artists job is to engage with the present totally
+
 
 ** Douglas Rushkoff and Team Human
 *** Program or be Programmed
@@ -349,6 +446,16 @@ qualities and can grow or shrink over time.
 *** Team Human Podcast
 [[https://teamhuman.fm]]
 
+
+
+* Hackers and the open source movement
+** Eric Raymond
+*** How to become a hacker
+[[http://www.catb.org/esr/faqs/hacker-howto.html]]
+*** The new hacker's dictionary
+[[http://hackersdictionary.com/html/index.html]]
+
+
 * A brief history of epistemology
 ** A few short points on the formation of knowledge
 *** Ancient 
@@ -356,9 +463,11 @@ qualities and can grow or shrink over time.
 *** National States Period
 *** Contemporary Perspectives
 
+
 * Adaptation and Adoption
 ** Features of Intagibles
 ** Shared Strategies – the automaton blues
+
 
 * Course Work
 Semester requirements are to do the readings, and submit two essays,
@@ -371,4 +480,5 @@ presenting it in a coherant way.
 ** Where are the best places to borrow ideas?
 ** Can we please make music theory a little less boring?
 
-
+   
+   
