@@ -1,40 +1,41 @@
-* Overview 
+
+* Overview
 
 ** Course Structure
 This course is an introduction to media theory – a subcategory of
 philosophy that emerged in the mid 20th century as an attempt to
 understand the impact that new technologies were having on the
-individual and, in a broader sense, society. 
+individual and, in a broader sense, society.
 The general tone used to convey the ideas contained throughout the
 notes and lectures will be an informal one, you refers to you the
-reader, listener and student. We refers to the teachers, authors and 
-students that have been consulted in developing the material for this 
-course. Us refers to the group that we happen to find ourselves in at 
-any particular moment in time. And I refers to me, the teacher, Adam McCartney.  
+reader, listener and student. We refers to the teachers, authors and
+students that have been consulted in developing the material for this
+course. Us refers to the group that we happen to find ourselves in at
+any particular moment in time. And I refers to me, the teacher, Adam McCartney.
 This course is intended to introduce undergraduate level music
-students to the broader disciplines relevant for professional work in 
-the arts and humanities. There are those who would consider it absurd 
+students to the broader disciplines relevant for professional work in
+the arts and humanities. There are those who would consider it absurd
 that now, in the 21st century, investing in anything but a science
-related degree is simply a waste. In the face of such beliefs, it is 
+related degree is simply a waste. In the face of such beliefs, it is
 worth pausing briefly to remember a simple point made by John Henry
 Newman, that a solid education in the liberal arts equips a student
-with tools that will ultimately lead them to become better engineers, 
-scientists, doctors, artists, lawyers and etc.   
+with tools that will ultimately lead them to become better engineers,
+scientists, doctors, artists, lawyers and etc.
 
 
 ** Philosophy of Teaching
 [[./descartes.png]]
 The satisfaction that can be gained through learning, teaching and
-generally sharing information and can be immense. My more positive 
-experiences over the years as a student and teacher have tended to 
-come from courses, books, tutorials, videos, discussions that were 
-clear enough to allow enable an understanding of the topic from 
-first principles – that is to say that the material related to 
+generally sharing information and can be immense. My more positive
+experiences over the years as a student and teacher have tended to
+come from courses, books, tutorials, videos, discussions that were
+clear enough to allow enable an understanding of the topic from
+first principles – that is to say that the material related to
 the topic was assembled in such a way as to reveal its most
-fundamental ideas. Its virtually always beneficial to ask rudimentary 
-questions about whatever it is that we are trying to understand, as 
-such questions will quickly reveal whether or not the topic under 
-discussion has a basis in fact. 
+fundamental ideas. Its virtually always beneficial to ask rudimentary
+questions about whatever it is that we are trying to understand, as
+such questions will quickly reveal whether or not the topic under
+discussion has a basis in fact.
 This course also aims to introduce some of the core methods that are
 useful anywhere that it becomes necessary to think about something:
 
@@ -51,34 +52,34 @@ useful anywhere that it becomes necessary to think about something:
 + Logic
 + Geometry
 + Arithmetic
-+ Music 
++ Music
 + Astronomy
 
-** Where and how to access material 
+** Where and how to access material
 The primary source of information for topics presented in this course
 can be found in the VMI digital library, which is labelled /Academic
 Resources For Students/ and will appear as a link on the homepage of
-your Moodle eLearning profile. 
+your Moodle eLearning profile.
 Please take the time to do the readings, this will prepare you for the
 discussions that will take place during class. Thinking about things
 is a practical exercise, it‘s the same as riding a bicycle or learning
 to play an instrument. That means that the only way that you are going
 to learn how to think is by engaging with the readings and
 exercises. Much the same as any activity that is worth learning,
-thinking is difficult and takes a lot of patience to get right. 
+thinking is difficult and takes a lot of patience to get right.
 The texts that were chosen to be part of the course are all written in
 an accessible style and are not overtly academic or
 technical. Nevertheless, they do contain  ideas and arguments that you
 might not get on the first reading.  My two favorite reading
 disciplines  from when I was an undergraduate were the practice of
 reading for a pre-allocated amount of time and also reading each text
-at least three times in preparation for a class. 
+at least three times in preparation for a class.
 
 ** Portability and how to apply course content
 Should you try and tell your piano tuner about Ludwig Wittgenstein‘s
 ideas on the formation of knowledge? Definitely not! In fact, they
 would be more likely to charge you extra fees just to get your piano
-tuned if you chose to do so. 
+tuned if you chose to do so.
 So where exactly can this knowledge be applied? A friend of mine is a
 hobby programmer and he recently told me his principle approach to
 work. He called it „eat your own dogfood“. Now obviously the idea of
@@ -103,21 +104,21 @@ some royal court and often patronized (though less commonly so than in
 the middle ages and early renaissance) by the clergy. The dominant
 motives of these eras were, for instance, dedicated to the nobility
 and to the church. An appreciation for human ingenuity was growing and
-quietly, a new philosophy of reason and enlightenment was being born. 
+quietly, a new philosophy of reason and enlightenment was being born.
 
 
 *** Art in the Age of Revolution (1789 - 1848)
 
 Before it turned into a bloody mess, the core ideals of the French
 Revolution (freedom, equality and brotherhood) seemed to be an
-articulation of the broader hopes of humanity for a brighter future. 
+articulation of the broader hopes of humanity for a brighter future.
 Many of the artists of the late 18th and early 19th centuries echoed
-these newly formed ideas of the enlightenment. 
+these newly formed ideas of the enlightenment.
 
 + 50 years that included late Mozart, Haydn, Beethoven, Schubert, Goethe, Dickens,
   Dostoevsky, Verdi, Wagner, Mary Wollstonecraft, Mary Shelly
 + Art made to appeal to a literate public that was increasing in
-  size 
+  size
 + The invention of machinery reduced the cost of physical labor for
   many, meaning there was more free time for education and pastimes
 + Aesthetic themes often contained pastoral elements, or sought to
@@ -126,9 +127,9 @@ these newly formed ideas of the enlightenment.
   references to similar threads from the renaissance
 
 #+CAPTION: William Turner - Rain, Steam and Speed
-[[./Turner_-_Rain,_Steam_and_Speed_-_National_Gallery_file.jpg]] 
+[[./Turner_-_Rain,_Steam_and_Speed_-_National_Gallery_file.jpg]]
 
-*** Utopia 
+*** Utopia
 
 Much of the art of the age focused Utopian ideals, be they either in
 some possible future or some glorified past: there were large
@@ -156,30 +157,30 @@ achievements.
 + first appearance of technically reproducible works of art (early
   photo camera had an immediate and profound effect on painting
 + arts were in every sense popular by the third quarter of the
-  century, with widely distributed novels 
+  century, with widely distributed novels
 + possible for artists to earn a good living and many (even if not
   rich) were well respected
 + arts came to occupy a semi-religious position for many of the new
   middle class, also (in the case of the German speaking world) a
   symbol of success and status to rival Britain's economic spoils
-+ the artists were seen as sources of truth, authorities on beauty 
++ the artists were seen as sources of truth, authorities on beauty
 
 
 
-*** Art in the Age of Empire (1875 - 1914) 
+*** Art in the Age of Empire (1875 - 1914)
 Bourgeois identity crisis
 + Orientalism
 + pastiche
 
-Established and entitled artistic circles 
+Established and entitled artistic circles
 + the Successions of Vienna & Berlin
 + the New English Arts Club
 + successors to the French Impressionist Exhibition
 
-The emergence of the avaunt-grade 
+The emergence of the avaunt-grade
 + very limited public reception
 + the anti-reality star? (like Picasso, appreciated for their
-  phenomenal output as opposed to the qualities or content of the work) 
+  phenomenal output as opposed to the qualities or content of the work)
 
 The birth of cinema
 
@@ -233,7 +234,7 @@ Being a strain of Marxist philosophy, central to critical theory is a
 critique of Capitalism. Furthermore, a strong emphasis is placed on a
 belief that civil society and human culture in general is undergoing a
 process of degeneration due to the commodification of artistic
-production and aesthetic experience. 
+production and aesthetic experience.
 
 It could be argued that much of critical theory is based on a
 revivification of an aspect of Kant's categorical imperative: namely,
@@ -251,14 +252,14 @@ such as aesthetics (which are by no means inherently political).
 
 *** Walter Benjamin
 A Berlin born art theorist / philosopher whose writings were a large
-influence on Theodor Adorno. Also a fairly dedicated Marxist, who 
+influence on Theodor Adorno. Also a fairly dedicated Marxist, who
 
 *** The Work of Art in the Age of Mechanical Reproduction
 
-** John Dewey's Aesthetics 
+** John Dewey's Aesthetics
 *** Pragmatism
 Originated in the United States towards the end of the 19th century,
-largely as a reaction to what was considered the overly theoretical 
+largely as a reaction to what was considered the overly theoretical
 and technical nature of continental philosophy.
 
 Notable Figures included William James and George Herbert Mead, who
@@ -273,7 +274,7 @@ First couple of points to note relate to the historical evolution of
 aesthetics. With the rise of nationalism and imperialism, art became
 disassociated from religious right and with the growing dominance of
 capitalism, became more about documenting material wealth than
-integrating personal with collective experience. 
+integrating personal with collective experience.
 
 This idea of the quality of experience is seemingly central to Dewey's
 aesthetics. It follows quite logically that experience happens
@@ -281,45 +282,45 @@ essentially in conjunction with the environment and not just /in/
 it. Whether or not life experience can be reduced solely to the basis
 of needs and conquest, is not so clear. I do not think that it is self
 evident that all conflict and resolution arises from the frustration
-or gratification of basic physical or physio-psychological urges. 
+or gratification of basic physical or physio-psychological urges.
 
 Nevertheless, it is possible to imagine how Dewey might try to
 structure his thought at this stage as he suggests that harmony and
 equilibrium arise from the resolution of tension. Awareness of this
 process, the rhythmic alteration between states of unity and disunity
-signifies conscious participation in the phenomenon of experience. 
+signifies conscious participation in the phenomenon of experience.
 
 Dewey seems to suggest here that emotions are breaks in experience,
 something to be understood in retrospect. More specifically he refers
 to emotions as signifiers that disrupt experience. This does make some
 sense, as the presence of an emotion seems, quite certainly, to
 require a level of abstraction that seems to move the subject into an
-acute awareness of the distinct mode, through which he now views experience. 
+acute awareness of the distinct mode, through which he now views experience.
 
 He sets up an interesting comparison between scientist and artist,
-shows that both are trying to shape material according to their thought processes. 
+shows that both are trying to shape material according to their thought processes.
 
 He points out that nature already has emotional qualities. That some
-aspects may appear comforting or disturbing. 
+aspects may appear comforting or disturbing.
 
 Aesthetic experience then involves a temporal process where action,
 feeling and meaning are one.  The cumulative effect of these on one
 another is balance. This is only possible, in a dynamic world, where
-experience takes place. 
+experience takes place.
 
 Passing out of disturbance into harmony can provide man's most intense
 experience. Happiness is the result of a deep fulfillment in which our
 whole being has adjusted to the environment. This seems to directly
 contradict what he says above about emotion, although on a more subtle
 level he seems to be suggesting something closer to integration here
-than happiness. Personally, I would place the core of aesthetics at integration. 
+than happiness. Personally, I would place the core of aesthetics at integration.
 
 *** Emotions
 
 The previous section suggests that aesthetics is essentially an act of
 integration. The experience of this act, ultimately leads to an
 emotional experience. Emotions are not static, they posses dynamic
-qualities and can grow or shrink over time. 
+qualities and can grow or shrink over time.
 
 
 
@@ -343,7 +344,7 @@ F.R. Leavis.
 
 It's worth considering that there were some pretty incredible advances
 taking place in the fields of Mathematics and Physics (both
-theoretical and applied) during the first half of the 20th century. 
+theoretical and applied) during the first half of the 20th century.
 
 + Bertrand Russell and Alfred North Whitehead had published "Principia
   Mathematica", both of whom held professorships in mathematics at Cambridge
@@ -362,7 +363,7 @@ development of specialist notation.
 In an attempt to keep up with these advances, fields more
 traditionally rooted in the humanities, themselves began to embody the
 new practices of logic and formalism as they emerged from mathematics,
-physics and early computational theory. 
+physics and early computational theory.
 
 It seems that I.A. Richards was particularly interested in forming a
 new, multidisciplinary approach to literary criticism that could give
@@ -374,7 +375,7 @@ criticism.
 Thinking about the human mind as one part of a cybernetic system, was
 an idea that influenced McLuhan profoundly, and research in and around
 this idea became a central part of his work throughout the rest of his
-career. 
+career.
 
 *** The book as technology
 
@@ -388,12 +389,12 @@ time that a writer has employed the use of a three-dimensional first
 person perspective on a scene within the context of a literary
 work. For McLuhan, the interesting point here is that the written word
 seems to been reaching out beyond the page, and evoking our other
-senses to aid our perception of the scene. 
+senses to aid our perception of the scene.
 
 Print is an extension of writing, which itself is an extension of
 speaking and in turn thinking. The process is inherently circular,
 a new technology emerges to form a super set of the technology that
-immediately preceded it. 
+immediately preceded it.
 
 For McLuhan, technology is always an extension of the mind (the
 cognitive/sensory apparatus) and therefor it influences the formation
@@ -407,7 +408,7 @@ of ideas.
   by the first industrial revolution: the introduction of the machine
   and the philosophy of the "division of labor"
   - The essence of the electronic/digital revolution is entirely the
-    opposite of this because (integral & decentralised) 
+    opposite of this because (integral & decentralised)
 
 + First principles look at the nature of certain types of business in
   the (post)-industrialized world
@@ -458,7 +459,7 @@ of ideas.
 
 * A brief history of epistemology
 ** A few short points on the formation of knowledge
-*** Ancient 
+*** Ancient
 *** Early Modern
 *** National States Period
 *** Contemporary Perspectives
@@ -475,10 +476,7 @@ one short (ca. 1000 words) and one longer (ca. 2500 words). Actually,
 the medium that you present these works is flexible - in the past
 students have produced podcasts, written essays, made lesson
 plans. The important thing is that you work on forming an idea an
-presenting it in a coherent way. 
+presenting it in a coherent way.
 
 ** Where are the best places to borrow ideas?
 ** Can we please make music theory a little less boring?
-
-   
-   

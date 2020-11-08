@@ -3,10 +3,10 @@
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <head>
-<!-- 2020-10-30 Fri 15:04 -->
+<!-- 2020-11-08 Sun 20:49 -->
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>&lrm;</title>
+<title>Overview</title>
 <meta name="generator" content="Org mode" />
 <meta name="author" content="adam" />
 <style type="text/css">
@@ -40,7 +40,7 @@
   }
   pre.src {
     position: relative;
-    overflow: auto;
+    overflow: visible;
     padding-top: 1.2em;
   }
   pre.src:before {
@@ -161,19 +161,6 @@
   .footdef  { margin-bottom: 1em; }
   .figure { padding: 1em; }
   .figure p { text-align: center; }
-  .equation-container {
-    display: table;
-    text-align: center;
-    width: 100%;
-  }
-  .equation {
-    vertical-align: middle;
-  }
-  .equation-label {
-    display: table-cell;
-    text-align: right;
-    vertical-align: middle;
-  }
   .inlinetask {
     padding: 10px;
     border: 2px solid gray;
@@ -198,7 +185,7 @@
 @licstart  The following is the entire license notice for the
 JavaScript code in this tag.
 
-Copyright (C) 2012-2020 Free Software Foundation, Inc.
+Copyright (C) 2012-2019 Free Software Foundation, Inc.
 
 The JavaScript code in this tag is free software: you can
 redistribute it and/or modify it under the terms of the GNU
@@ -242,161 +229,55 @@ for the JavaScript code in this tag.
 </head>
 <body>
 <div id="content">
-<div id="table-of-contents">
-<h2>Table of Contents</h2>
-<div id="text-table-of-contents">
-<ul>
-<li><a href="#orgaa917b3">1. Overview</a>
-<ul>
-<li><a href="#orga753664">1.1. Course Structure</a></li>
-<li><a href="#org74fc8ee">1.2. Philosophy of Teaching</a>
-<ul>
-<li><a href="#orgf183f37">1.2.1. 7 Liberal Arts of the medieval university</a></li>
-</ul>
-</li>
-<li><a href="#org7c2d97c">1.3. Where and how to access material</a></li>
-<li><a href="#orgdf533d3">1.4. Portability and how to apply course content</a></li>
-</ul>
-</li>
-<li><a href="#org4b5176c">2. The long 19th century (1789 - 1914)</a>
-<ul>
-<li>
-<ul>
-<li><a href="#org5247093">2.0.1. A brief history of art leading up to the industrial revolution</a></li>
-<li><a href="#org11f2dda">2.0.2. Art in the Age of Revolution (1789 - 1848)</a></li>
-<li><a href="#orge903fb9">2.0.3. Utopia</a></li>
-<li><a href="#org7df87d4">2.0.4. Art in the Age of Capital (1848 - 1875)</a></li>
-<li><a href="#org1c3dc21">2.0.5. Art in the Age of Empire (1875 - 1914)</a></li>
-</ul>
-</li>
-<li><a href="#org3ea3cb7">2.1. The short 20Th century (1914 - 1996): Art in the Age of Extremes</a>
-<ul>
-<li><a href="#org9eeaae3">2.1.1. Features of the early 20th century art landscape</a></li>
-<li><a href="#orgcbfc964">2.1.2. Postwar Arts</a></li>
-</ul>
-</li>
-</ul>
-</li>
-<li><a href="#org89bf7d7">3. Aesthetic and sociological perspectives</a>
-<ul>
-<li><a href="#org76a282e">3.1. Critical Theory</a>
-<ul>
-<li><a href="#orga5c3280">3.1.1. Walter Benjamin</a></li>
-<li><a href="#org8523d3a">3.1.2. The Work of Art in the Age of Mechanical Reproduction</a></li>
-</ul>
-</li>
-<li><a href="#orgffd5e87">3.2. John Dewey's Aesthetics</a>
-<ul>
-<li><a href="#org19d8065">3.2.1. Pragmatism</a></li>
-<li><a href="#org1b8611e">3.2.2. The Live Creature</a></li>
-<li><a href="#orgeeace85">3.2.3. Emotions</a></li>
-</ul>
-</li>
-</ul>
-</li>
-<li><a href="#org64c96dc">4. Media Theory</a>
-<ul>
-<li><a href="#org865686e">4.1. Marshall McLuhan</a>
-<ul>
-<li><a href="#org602c456">4.1.1. Biographical Note</a></li>
-<li><a href="#orgf319749">4.1.2. Early Influence</a></li>
-<li><a href="#org23e14b2">4.1.3. The book as technology</a></li>
-<li><a href="#org86cf6b9">4.1.4. The Medium is the message</a></li>
-</ul>
-</li>
-<li><a href="#org2203d99">4.2. Douglas Rushkoff and Team Human</a>
-<ul>
-<li><a href="#org3087e78">4.2.1. Program or be Programmed</a></li>
-<li><a href="#org11264de">4.2.2. Team Human Podcast</a></li>
-</ul>
-</li>
-</ul>
-</li>
-<li><a href="#orge940f88">5. Hackers and the open source movement</a>
-<ul>
-<li><a href="#org15a753c">5.1. Eric Raymond</a>
-<ul>
-<li><a href="#org4b22a86">5.1.1. How to become a hacker</a></li>
-<li><a href="#org0c90f2a">5.1.2. The new hacker's dictionary</a></li>
-</ul>
-</li>
-</ul>
-</li>
-<li><a href="#orge104fb2">6. A brief history of epistemology</a>
-<ul>
-<li><a href="#orgd8182de">6.1. A few short points on the formation of knowledge</a>
-<ul>
-<li><a href="#org58e561b">6.1.1. Ancient</a></li>
-<li><a href="#org54799fc">6.1.2. Early Modern</a></li>
-<li><a href="#org8369fc0">6.1.3. National States Period</a></li>
-<li><a href="#org6238620">6.1.4. Contemporary Perspectives</a></li>
-</ul>
-</li>
-</ul>
-</li>
-<li><a href="#org8300075">7. Adaptation and Adoption</a>
-<ul>
-<li><a href="#org95e0b6a">7.1. Features of Intagibles</a></li>
-<li><a href="#org62026ca">7.2. Shared Strategies – the automaton blues</a></li>
-</ul>
-</li>
-<li><a href="#org5c2b66f">8. Course Work</a>
-<ul>
-<li><a href="#org572a093">8.1. Where are the best places to borrow ideas?</a></li>
-<li><a href="#org6407ba1">8.2. Can we please make music theory a little less boring?</a></li>
-</ul>
-</li>
-</ul>
+<h1 class="title">Overview</h1>
+<div id="outline-container-org2d5850c" class="outline-2">
+<h2 id="org2d5850c">Overview</h2>
+<div class="outline-text-2" id="text-org2d5850c">
 </div>
-</div>
-<div id="outline-container-orgaa917b3" class="outline-2">
-<h2 id="orgaa917b3"><span class="section-number-2">1</span> Overview</h2>
-<div class="outline-text-2" id="text-1">
-</div>
-<div id="outline-container-orga753664" class="outline-3">
-<h3 id="orga753664"><span class="section-number-3">1.1</span> Course Structure</h3>
-<div class="outline-text-3" id="text-1-1">
+<div id="outline-container-orgfd13986" class="outline-3">
+<h3 id="orgfd13986">Course Structure</h3>
+<div class="outline-text-3" id="text-orgfd13986">
 <p>
 This course is an introduction to media theory – a subcategory of
 philosophy that emerged in the mid 20th century as an attempt to
 understand the impact that new technologies were having on the
-individual and, in a broader sense, society. 
+individual and, in a broader sense, society.
 The general tone used to convey the ideas contained throughout the
 notes and lectures will be an informal one, you refers to you the
-reader, listener and student. We refers to the teachers, authors and 
-students that have been consulted in developing the material for this 
-course. Us refers to the group that we happen to find ourselves in at 
-any particular moment in time. And I refers to me, the teacher, Adam McCartney.  
+reader, listener and student. We refers to the teachers, authors and
+students that have been consulted in developing the material for this
+course. Us refers to the group that we happen to find ourselves in at
+any particular moment in time. And I refers to me, the teacher, Adam McCartney.
 This course is intended to introduce undergraduate level music
-students to the broader disciplines relevant for professional work in 
-the arts and humanities. There are those who would consider it absurd 
+students to the broader disciplines relevant for professional work in
+the arts and humanities. There are those who would consider it absurd
 that now, in the 21st century, investing in anything but a science
-related degree is simply a waste. In the face of such beliefs, it is 
+related degree is simply a waste. In the face of such beliefs, it is
 worth pausing briefly to remember a simple point made by John Henry
 Newman, that a solid education in the liberal arts equips a student
-with tools that will ultimately lead them to become better engineers, 
-scientists, doctors, artists, lawyers and etc.   
+with tools that will ultimately lead them to become better engineers,
+scientists, doctors, artists, lawyers and etc.
 </p>
 </div>
 </div>
 
 
-<div id="outline-container-org74fc8ee" class="outline-3">
-<h3 id="org74fc8ee"><span class="section-number-3">1.2</span> Philosophy of Teaching</h3>
-<div class="outline-text-3" id="text-1-2">
+<div id="outline-container-orgc94006f" class="outline-3">
+<h3 id="orgc94006f">Philosophy of Teaching</h3>
+<div class="outline-text-3" id="text-orgc94006f">
 <p>
 <img src="./descartes.png" alt="descartes.png" />
 The satisfaction that can be gained through learning, teaching and
-generally sharing information and can be immense. My more positive 
-experiences over the years as a student and teacher have tended to 
-come from courses, books, tutorials, videos, discussions that were 
-clear enough to allow enable an understanding of the topic from 
-first principles – that is to say that the material related to 
+generally sharing information and can be immense. My more positive
+experiences over the years as a student and teacher have tended to
+come from courses, books, tutorials, videos, discussions that were
+clear enough to allow enable an understanding of the topic from
+first principles – that is to say that the material related to
 the topic was assembled in such a way as to reveal its most
-fundamental ideas. Its virtually always beneficial to ask rudimentary 
-questions about whatever it is that we are trying to understand, as 
-such questions will quickly reveal whether or not the topic under 
-discussion has a basis in fact. 
+fundamental ideas. Its virtually always beneficial to ask rudimentary
+questions about whatever it is that we are trying to understand, as
+such questions will quickly reveal whether or not the topic under
+discussion has a basis in fact.
 This course also aims to introduce some of the core methods that are
 useful anywhere that it becomes necessary to think about something:
 </p>
@@ -411,9 +292,9 @@ useful anywhere that it becomes necessary to think about something:
 </div>
 
 
-<div id="outline-container-orgf183f37" class="outline-4">
-<h4 id="orgf183f37"><span class="section-number-4">1.2.1</span> 7 Liberal Arts of the medieval university</h4>
-<div class="outline-text-4" id="text-1-2-1">
+<div id="outline-container-org6cbb079" class="outline-4">
+<h4 id="org6cbb079">7 Liberal Arts of the medieval university</h4>
+<div class="outline-text-4" id="text-org6cbb079">
 <ul class="org-ul">
 <li>Grammar</li>
 <li>Rhetoric</li>
@@ -427,40 +308,40 @@ useful anywhere that it becomes necessary to think about something:
 </div>
 </div>
 
-<div id="outline-container-org7c2d97c" class="outline-3">
-<h3 id="org7c2d97c"><span class="section-number-3">1.3</span> Where and how to access material</h3>
-<div class="outline-text-3" id="text-1-3">
+<div id="outline-container-orgd61c1bc" class="outline-3">
+<h3 id="orgd61c1bc">Where and how to access material</h3>
+<div class="outline-text-3" id="text-orgd61c1bc">
 <p>
 The primary source of information for topics presented in this course
 can be found in the VMI digital library, which is labelled <i>Academic
 Resources For Students</i> and will appear as a link on the homepage of
-your Moodle eLearning profile. 
+your Moodle eLearning profile.
 Please take the time to do the readings, this will prepare you for the
 discussions that will take place during class. Thinking about things
 is a practical exercise, it‘s the same as riding a bicycle or learning
 to play an instrument. That means that the only way that you are going
 to learn how to think is by engaging with the readings and
 exercises. Much the same as any activity that is worth learning,
-thinking is difficult and takes a lot of patience to get right. 
+thinking is difficult and takes a lot of patience to get right.
 The texts that were chosen to be part of the course are all written in
 an accessible style and are not overtly academic or
 technical. Nevertheless, they do contain  ideas and arguments that you
 might not get on the first reading.  My two favorite reading
 disciplines  from when I was an undergraduate were the practice of
 reading for a pre-allocated amount of time and also reading each text
-at least three times in preparation for a class. 
+at least three times in preparation for a class.
 </p>
 </div>
 </div>
 
-<div id="outline-container-orgdf533d3" class="outline-3">
-<h3 id="orgdf533d3"><span class="section-number-3">1.4</span> Portability and how to apply course content</h3>
-<div class="outline-text-3" id="text-1-4">
+<div id="outline-container-org64fb17a" class="outline-3">
+<h3 id="org64fb17a">Portability and how to apply course content</h3>
+<div class="outline-text-3" id="text-org64fb17a">
 <p>
 Should you try and tell your piano tuner about Ludwig Wittgenstein‘s
 ideas on the formation of knowledge? Definitely not! In fact, they
 would be more likely to charge you extra fees just to get your piano
-tuned if you chose to do so. 
+tuned if you chose to do so.
 So where exactly can this knowledge be applied? A friend of mine is a
 hobby programmer and he recently told me his principle approach to
 work. He called it „eat your own dogfood“. Now obviously the idea of
@@ -478,13 +359,13 @@ develop and sustain.
 
 
 
-<div id="outline-container-org4b5176c" class="outline-2">
-<h2 id="org4b5176c"><span class="section-number-2">2</span> The long 19th century (1789 - 1914)</h2>
-<div class="outline-text-2" id="text-2">
+<div id="outline-container-orgda5043d" class="outline-2">
+<h2 id="orgda5043d">The long 19th century (1789 - 1914)</h2>
+<div class="outline-text-2" id="text-orgda5043d">
 </div>
-<div id="outline-container-org5247093" class="outline-4">
-<h4 id="org5247093"><span class="section-number-4">2.0.1</span> A brief history of art leading up to the industrial revolution</h4>
-<div class="outline-text-4" id="text-2-0-1">
+<div id="outline-container-orgb256f30" class="outline-4">
+<h4 id="orgb256f30">A brief history of art leading up to the industrial revolution</h4>
+<div class="outline-text-4" id="text-orgb256f30">
 <p>
 The renaissance had shown that the rise of merchant classes was
 possible, and that there was room for a talented craftspeople to build
@@ -494,21 +375,21 @@ some royal court and often patronized (though less commonly so than in
 the middle ages and early renaissance) by the clergy. The dominant
 motives of these eras were, for instance, dedicated to the nobility
 and to the church. An appreciation for human ingenuity was growing and
-quietly, a new philosophy of reason and enlightenment was being born. 
+quietly, a new philosophy of reason and enlightenment was being born.
 </p>
 </div>
 </div>
 
 
-<div id="outline-container-org11f2dda" class="outline-4">
-<h4 id="org11f2dda"><span class="section-number-4">2.0.2</span> Art in the Age of Revolution (1789 - 1848)</h4>
-<div class="outline-text-4" id="text-2-0-2">
+<div id="outline-container-org4cb699b" class="outline-4">
+<h4 id="org4cb699b">Art in the Age of Revolution (1789 - 1848)</h4>
+<div class="outline-text-4" id="text-org4cb699b">
 <p>
 Before it turned into a bloody mess, the core ideals of the French
 Revolution (freedom, equality and brotherhood) seemed to be an
-articulation of the broader hopes of humanity for a brighter future. 
+articulation of the broader hopes of humanity for a brighter future.
 Many of the artists of the late 18th and early 19th centuries echoed
-these newly formed ideas of the enlightenment. 
+these newly formed ideas of the enlightenment.
 </p>
 
 <ul class="org-ul">
@@ -526,16 +407,16 @@ references to similar threads from the renaissance</li>
 
 
 <div class="figure">
-<p><img src="./Turner_-_Rain,_Steam_and_Speed_-_National_Gallery_file.jpg" alt="Turner_-_Rain,_Steam_and_Speed_-_National_Gallery_file.jpg" /> 
+<p><img src="./Turner_-_Rain,_Steam_and_Speed_-_National_Gallery_file.jpg" alt="Turner_-_Rain,_Steam_and_Speed_-_National_Gallery_file.jpg" />
 </p>
 <p><span class="figure-number">Figure 1: </span>William Turner - Rain, Steam and Speed</p>
 </div>
 </div>
 </div>
 
-<div id="outline-container-orge903fb9" class="outline-4">
-<h4 id="orge903fb9"><span class="section-number-4">2.0.3</span> Utopia</h4>
-<div class="outline-text-4" id="text-2-0-3">
+<div id="outline-container-org2e0ca14" class="outline-4">
+<h4 id="org2e0ca14">Utopia</h4>
+<div class="outline-text-4" id="text-org2e0ca14">
 <p>
 Much of the art of the age focused Utopian ideals, be they either in
 some possible future or some glorified past: there were large
@@ -549,9 +430,9 @@ grace and the quest for redemption is literally as old as Adam and Eve.
 </div>
 </div>
 
-<div id="outline-container-org7df87d4" class="outline-4">
-<h4 id="org7df87d4"><span class="section-number-4">2.0.4</span> Art in the Age of Capital (1848 - 1875)</h4>
-<div class="outline-text-4" id="text-2-0-4">
+<div id="outline-container-orgfd9844e" class="outline-4">
+<h4 id="orgfd9844e">Art in the Age of Capital (1848 - 1875)</h4>
+<div class="outline-text-4" id="text-orgfd9844e">
 <p>
 Having seen what the first half of the 19th century delivered in terms
 of the arts, it's not surprising that this period during the later half of
@@ -583,9 +464,9 @@ symbol of success and status to rival Britain's economic spoils</li>
 
 
 
-<div id="outline-container-org1c3dc21" class="outline-4">
-<h4 id="org1c3dc21"><span class="section-number-4">2.0.5</span> Art in the Age of Empire (1875 - 1914)</h4>
-<div class="outline-text-4" id="text-2-0-5">
+<div id="outline-container-orgc3ad75c" class="outline-4">
+<h4 id="orgc3ad75c">Art in the Age of Empire (1875 - 1914)</h4>
+<div class="outline-text-4" id="text-orgc3ad75c">
 <p>
 Bourgeois identity crisis
 </p>
@@ -595,7 +476,7 @@ Bourgeois identity crisis
 </ul>
 
 <p>
-Established and entitled artistic circles 
+Established and entitled artistic circles
 </p>
 <ul class="org-ul">
 <li>the Successions of Vienna &amp; Berlin</li>
@@ -604,7 +485,7 @@ Established and entitled artistic circles
 </ul>
 
 <p>
-The emergence of the avaunt-grade 
+The emergence of the avaunt-grade
 </p>
 <ul class="org-ul">
 <li>very limited public reception</li>
@@ -619,13 +500,13 @@ The birth of cinema
 </div>
 
 
-<div id="outline-container-org3ea3cb7" class="outline-3">
-<h3 id="org3ea3cb7"><span class="section-number-3">2.1</span> The short 20Th century (1914 - 1996): Art in the Age of Extremes</h3>
-<div class="outline-text-3" id="text-2-1">
+<div id="outline-container-org1a8efb6" class="outline-3">
+<h3 id="org1a8efb6">The short 20Th century (1914 - 1996): Art in the Age of Extremes</h3>
+<div class="outline-text-3" id="text-org1a8efb6">
 </div>
-<div id="outline-container-org9eeaae3" class="outline-4">
-<h4 id="org9eeaae3"><span class="section-number-4">2.1.1</span> Features of the early 20th century art landscape</h4>
-<div class="outline-text-4" id="text-2-1-1">
+<div id="outline-container-org40afe4a" class="outline-4">
+<h4 id="org40afe4a">Features of the early 20th century art landscape</h4>
+<div class="outline-text-4" id="text-org40afe4a">
 <ul class="org-ul">
 <li>Modernism</li>
 <li>Dadaism, Constructivism, Surrealism</li>
@@ -645,9 +526,9 @@ The birth of cinema
 </div>
 </div>
 
-<div id="outline-container-orgcbfc964" class="outline-4">
-<h4 id="orgcbfc964"><span class="section-number-4">2.1.2</span> Postwar Arts</h4>
-<div class="outline-text-4" id="text-2-1-2">
+<div id="outline-container-orgd1b379f" class="outline-4">
+<h4 id="orgd1b379f">Postwar Arts</h4>
+<div class="outline-text-4" id="text-orgd1b379f">
 <ul class="org-ul">
 <li>Rock &amp; Roll, the LP</li>
 <li>the advertising industry</li>
@@ -665,13 +546,13 @@ The birth of cinema
 </div>
 
 
-<div id="outline-container-org89bf7d7" class="outline-2">
-<h2 id="org89bf7d7"><span class="section-number-2">3</span> Aesthetic and sociological perspectives</h2>
-<div class="outline-text-2" id="text-3">
+<div id="outline-container-org6494966" class="outline-2">
+<h2 id="org6494966">Aesthetic and sociological perspectives</h2>
+<div class="outline-text-2" id="text-org6494966">
 </div>
-<div id="outline-container-org76a282e" class="outline-3">
-<h3 id="org76a282e"><span class="section-number-3">3.1</span> Critical Theory</h3>
-<div class="outline-text-3" id="text-3-1">
+<div id="outline-container-orgf2df373" class="outline-3">
+<h3 id="orgf2df373">Critical Theory</h3>
+<div class="outline-text-3" id="text-orgf2df373">
 <p>
 Reference: <a href="https://plato.stanford.edu/entries/critical-theory/">https://plato.stanford.edu/entries/critical-theory/</a>
 </p>
@@ -694,7 +575,7 @@ Being a strain of Marxist philosophy, central to critical theory is a
 critique of Capitalism. Furthermore, a strong emphasis is placed on a
 belief that civil society and human culture in general is undergoing a
 process of degeneration due to the commodification of artistic
-production and aesthetic experience. 
+production and aesthetic experience.
 </p>
 
 <p>
@@ -716,31 +597,31 @@ such as aesthetics (which are by no means inherently political).
 </p>
 </div>
 
-<div id="outline-container-orga5c3280" class="outline-4">
-<h4 id="orga5c3280"><span class="section-number-4">3.1.1</span> Walter Benjamin</h4>
-<div class="outline-text-4" id="text-3-1-1">
+<div id="outline-container-orgdc0819d" class="outline-4">
+<h4 id="orgdc0819d">Walter Benjamin</h4>
+<div class="outline-text-4" id="text-orgdc0819d">
 <p>
 A Berlin born art theorist / philosopher whose writings were a large
-influence on Theodor Adorno. Also a fairly dedicated Marxist, who 
+influence on Theodor Adorno. Also a fairly dedicated Marxist, who
 </p>
 </div>
 </div>
 
-<div id="outline-container-org8523d3a" class="outline-4">
-<h4 id="org8523d3a"><span class="section-number-4">3.1.2</span> The Work of Art in the Age of Mechanical Reproduction</h4>
+<div id="outline-container-org13f8742" class="outline-4">
+<h4 id="org13f8742">The Work of Art in the Age of Mechanical Reproduction</h4>
 </div>
 </div>
 
-<div id="outline-container-orgffd5e87" class="outline-3">
-<h3 id="orgffd5e87"><span class="section-number-3">3.2</span> John Dewey's Aesthetics</h3>
-<div class="outline-text-3" id="text-3-2">
+<div id="outline-container-org4c16b56" class="outline-3">
+<h3 id="org4c16b56">John Dewey's Aesthetics</h3>
+<div class="outline-text-3" id="text-org4c16b56">
 </div>
-<div id="outline-container-org19d8065" class="outline-4">
-<h4 id="org19d8065"><span class="section-number-4">3.2.1</span> Pragmatism</h4>
-<div class="outline-text-4" id="text-3-2-1">
+<div id="outline-container-org51cdbdc" class="outline-4">
+<h4 id="org51cdbdc">Pragmatism</h4>
+<div class="outline-text-4" id="text-org51cdbdc">
 <p>
 Originated in the United States towards the end of the 19th century,
-largely as a reaction to what was considered the overly theoretical 
+largely as a reaction to what was considered the overly theoretical
 and technical nature of continental philosophy.
 </p>
 
@@ -752,9 +633,9 @@ their actions in the world.
 </div>
 </div>
 
-<div id="outline-container-org1b8611e" class="outline-4">
-<h4 id="org1b8611e"><span class="section-number-4">3.2.2</span> The Live Creature</h4>
-<div class="outline-text-4" id="text-3-2-2">
+<div id="outline-container-org1b7f74b" class="outline-4">
+<h4 id="org1b7f74b">The Live Creature</h4>
+<div class="outline-text-4" id="text-org1b7f74b">
 <p>
 Notes on reading: <a href="https://plato.stanford.edu/entries/dewey-aesthetics/">https://plato.stanford.edu/entries/dewey-aesthetics/</a>
 </p>
@@ -764,7 +645,7 @@ First couple of points to note relate to the historical evolution of
 aesthetics. With the rise of nationalism and imperialism, art became
 disassociated from religious right and with the growing dominance of
 capitalism, became more about documenting material wealth than
-integrating personal with collective experience. 
+integrating personal with collective experience.
 </p>
 
 <p>
@@ -774,7 +655,7 @@ essentially in conjunction with the environment and not just <i>in</i>
 it. Whether or not life experience can be reduced solely to the basis
 of needs and conquest, is not so clear. I do not think that it is self
 evident that all conflict and resolution arises from the frustration
-or gratification of basic physical or physio-psychological urges. 
+or gratification of basic physical or physio-psychological urges.
 </p>
 
 <p>
@@ -782,7 +663,7 @@ Nevertheless, it is possible to imagine how Dewey might try to
 structure his thought at this stage as he suggests that harmony and
 equilibrium arise from the resolution of tension. Awareness of this
 process, the rhythmic alteration between states of unity and disunity
-signifies conscious participation in the phenomenon of experience. 
+signifies conscious participation in the phenomenon of experience.
 </p>
 
 <p>
@@ -791,24 +672,24 @@ something to be understood in retrospect. More specifically he refers
 to emotions as signifiers that disrupt experience. This does make some
 sense, as the presence of an emotion seems, quite certainly, to
 require a level of abstraction that seems to move the subject into an
-acute awareness of the distinct mode, through which he now views experience. 
+acute awareness of the distinct mode, through which he now views experience.
 </p>
 
 <p>
 He sets up an interesting comparison between scientist and artist,
-shows that both are trying to shape material according to their thought processes. 
+shows that both are trying to shape material according to their thought processes.
 </p>
 
 <p>
 He points out that nature already has emotional qualities. That some
-aspects may appear comforting or disturbing. 
+aspects may appear comforting or disturbing.
 </p>
 
 <p>
 Aesthetic experience then involves a temporal process where action,
 feeling and meaning are one.  The cumulative effect of these on one
 another is balance. This is only possible, in a dynamic world, where
-experience takes place. 
+experience takes place.
 </p>
 
 <p>
@@ -817,19 +698,19 @@ experience. Happiness is the result of a deep fulfillment in which our
 whole being has adjusted to the environment. This seems to directly
 contradict what he says above about emotion, although on a more subtle
 level he seems to be suggesting something closer to integration here
-than happiness. Personally, I would place the core of aesthetics at integration. 
+than happiness. Personally, I would place the core of aesthetics at integration.
 </p>
 </div>
 </div>
 
-<div id="outline-container-orgeeace85" class="outline-4">
-<h4 id="orgeeace85"><span class="section-number-4">3.2.3</span> Emotions</h4>
-<div class="outline-text-4" id="text-3-2-3">
+<div id="outline-container-org361d5b3" class="outline-4">
+<h4 id="org361d5b3">Emotions</h4>
+<div class="outline-text-4" id="text-org361d5b3">
 <p>
 The previous section suggests that aesthetics is essentially an act of
 integration. The experience of this act, ultimately leads to an
 emotional experience. Emotions are not static, they posses dynamic
-qualities and can grow or shrink over time. 
+qualities and can grow or shrink over time.
 </p>
 </div>
 </div>
@@ -842,17 +723,17 @@ qualities and can grow or shrink over time.
 
 
 
-<div id="outline-container-org64c96dc" class="outline-2">
-<h2 id="org64c96dc"><span class="section-number-2">4</span> Media Theory</h2>
-<div class="outline-text-2" id="text-4">
+<div id="outline-container-org48bc5f3" class="outline-2">
+<h2 id="org48bc5f3">Media Theory</h2>
+<div class="outline-text-2" id="text-org48bc5f3">
 </div>
-<div id="outline-container-org865686e" class="outline-3">
-<h3 id="org865686e"><span class="section-number-3">4.1</span> Marshall McLuhan</h3>
-<div class="outline-text-3" id="text-4-1">
+<div id="outline-container-org14ddd64" class="outline-3">
+<h3 id="org14ddd64">Marshall McLuhan</h3>
+<div class="outline-text-3" id="text-org14ddd64">
 </div>
-<div id="outline-container-org602c456" class="outline-4">
-<h4 id="org602c456"><span class="section-number-4">4.1.1</span> Biographical Note</h4>
-<div class="outline-text-4" id="text-4-1-1">
+<div id="outline-container-org6b506e5" class="outline-4">
+<h4 id="org6b506e5">Biographical Note</h4>
+<div class="outline-text-4" id="text-org6b506e5">
 <ul class="org-ul">
 <li>born Edmonton, Canada 1911</li>
 <li>died 1980</li>
@@ -866,9 +747,9 @@ qualities and can grow or shrink over time.
 </div>
 
 
-<div id="outline-container-orgf319749" class="outline-4">
-<h4 id="orgf319749"><span class="section-number-4">4.1.2</span> Early Influence</h4>
-<div class="outline-text-4" id="text-4-1-2">
+<div id="outline-container-org6c62652" class="outline-4">
+<h4 id="org6c62652">Early Influence</h4>
+<div class="outline-text-4" id="text-org6c62652">
 <p>
 At Cambridge (entering in 1934) he studied under the professors I.A. Richards and
 F.R. Leavis.
@@ -877,7 +758,7 @@ F.R. Leavis.
 <p>
 It's worth considering that there were some pretty incredible advances
 taking place in the fields of Mathematics and Physics (both
-theoretical and applied) during the first half of the 20th century. 
+theoretical and applied) during the first half of the 20th century.
 </p>
 
 <ul class="org-ul">
@@ -902,7 +783,7 @@ development of specialist notation.
 In an attempt to keep up with these advances, fields more
 traditionally rooted in the humanities, themselves began to embody the
 new practices of logic and formalism as they emerged from mathematics,
-physics and early computational theory. 
+physics and early computational theory.
 </p>
 
 <p>
@@ -918,14 +799,14 @@ criticism.
 Thinking about the human mind as one part of a cybernetic system, was
 an idea that influenced McLuhan profoundly, and research in and around
 this idea became a central part of his work throughout the rest of his
-career. 
+career.
 </p>
 </div>
 </div>
 
-<div id="outline-container-org23e14b2" class="outline-4">
-<h4 id="org23e14b2"><span class="section-number-4">4.1.3</span> The book as technology</h4>
-<div class="outline-text-4" id="text-4-1-3">
+<div id="outline-container-org28e8657" class="outline-4">
+<h4 id="org28e8657">The book as technology</h4>
+<div class="outline-text-4" id="text-org28e8657">
 <p>
 <i>"Water is unknown to a fish until it discovers air"</i>
 </p>
@@ -939,14 +820,14 @@ time that a writer has employed the use of a three-dimensional first
 person perspective on a scene within the context of a literary
 work. For McLuhan, the interesting point here is that the written word
 seems to been reaching out beyond the page, and evoking our other
-senses to aid our perception of the scene. 
+senses to aid our perception of the scene.
 </p>
 
 <p>
 Print is an extension of writing, which itself is an extension of
 speaking and in turn thinking. The process is inherently circular,
 a new technology emerges to form a super set of the technology that
-immediately preceded it. 
+immediately preceded it.
 </p>
 
 <p>
@@ -958,9 +839,9 @@ of ideas.
 </div>
 
 
-<div id="outline-container-org86cf6b9" class="outline-4">
-<h4 id="org86cf6b9"><span class="section-number-4">4.1.4</span> The Medium is the message</h4>
-<div class="outline-text-4" id="text-4-1-4">
+<div id="outline-container-org74cd603" class="outline-4">
+<h4 id="org74cd603">The Medium is the message</h4>
+<div class="outline-text-4" id="text-org74cd603">
 <p>
 <a href="https://web.mit.edu/allanmc/www/mcluhan.mediummessage.pdf">https://web.mit.edu/allanmc/www/mcluhan.mediummessage.pdf</a>
 </p>
@@ -1010,22 +891,22 @@ social life as they are extended.</li>
 </div>
 
 
-<div id="outline-container-org2203d99" class="outline-3">
-<h3 id="org2203d99"><span class="section-number-3">4.2</span> Douglas Rushkoff and Team Human</h3>
-<div class="outline-text-3" id="text-4-2">
+<div id="outline-container-org93eab68" class="outline-3">
+<h3 id="org93eab68">Douglas Rushkoff and Team Human</h3>
+<div class="outline-text-3" id="text-org93eab68">
 </div>
-<div id="outline-container-org3087e78" class="outline-4">
-<h4 id="org3087e78"><span class="section-number-4">4.2.1</span> Program or be Programmed</h4>
-<div class="outline-text-4" id="text-4-2-1">
+<div id="outline-container-org307dde1" class="outline-4">
+<h4 id="org307dde1">Program or be Programmed</h4>
+<div class="outline-text-4" id="text-org307dde1">
 <p>
 <a href="https://www.youtube.com/watch?v=imV3pPIUy1k&amp;feature=youtu.be">https://www.youtube.com/watch?v=imV3pPIUy1k&amp;feature=youtu.be</a>
 </p>
 </div>
 </div>
 
-<div id="outline-container-org11264de" class="outline-4">
-<h4 id="org11264de"><span class="section-number-4">4.2.2</span> Team Human Podcast</h4>
-<div class="outline-text-4" id="text-4-2-2">
+<div id="outline-container-org5c82ac7" class="outline-4">
+<h4 id="org5c82ac7">Team Human Podcast</h4>
+<div class="outline-text-4" id="text-org5c82ac7">
 <p>
 <a href="https://teamhuman.fm">https://teamhuman.fm</a>
 </p>
@@ -1036,25 +917,25 @@ social life as they are extended.</li>
 
 
 
-<div id="outline-container-orge940f88" class="outline-2">
-<h2 id="orge940f88"><span class="section-number-2">5</span> Hackers and the open source movement</h2>
-<div class="outline-text-2" id="text-5">
+<div id="outline-container-orgcbbea1d" class="outline-2">
+<h2 id="orgcbbea1d">Hackers and the open source movement</h2>
+<div class="outline-text-2" id="text-orgcbbea1d">
 </div>
-<div id="outline-container-org15a753c" class="outline-3">
-<h3 id="org15a753c"><span class="section-number-3">5.1</span> Eric Raymond</h3>
-<div class="outline-text-3" id="text-5-1">
+<div id="outline-container-orgd140710" class="outline-3">
+<h3 id="orgd140710">Eric Raymond</h3>
+<div class="outline-text-3" id="text-orgd140710">
 </div>
-<div id="outline-container-org4b22a86" class="outline-4">
-<h4 id="org4b22a86"><span class="section-number-4">5.1.1</span> How to become a hacker</h4>
-<div class="outline-text-4" id="text-5-1-1">
+<div id="outline-container-orgcaa784e" class="outline-4">
+<h4 id="orgcaa784e">How to become a hacker</h4>
+<div class="outline-text-4" id="text-orgcaa784e">
 <p>
 <a href="http://www.catb.org/esr/faqs/hacker-howto.html">http://www.catb.org/esr/faqs/hacker-howto.html</a>
 </p>
 </div>
 </div>
-<div id="outline-container-org0c90f2a" class="outline-4">
-<h4 id="org0c90f2a"><span class="section-number-4">5.1.2</span> The new hacker's dictionary</h4>
-<div class="outline-text-4" id="text-5-1-2">
+<div id="outline-container-org2235dcd" class="outline-4">
+<h4 id="org2235dcd">The new hacker's dictionary</h4>
+<div class="outline-text-4" id="text-org2235dcd">
 <p>
 <a href="http://hackersdictionary.com/html/index.html">http://hackersdictionary.com/html/index.html</a>
 </p>
@@ -1064,67 +945,67 @@ social life as they are extended.</li>
 </div>
 
 
-<div id="outline-container-orge104fb2" class="outline-2">
-<h2 id="orge104fb2"><span class="section-number-2">6</span> A brief history of epistemology</h2>
-<div class="outline-text-2" id="text-6">
+<div id="outline-container-orgf86f1aa" class="outline-2">
+<h2 id="orgf86f1aa">A brief history of epistemology</h2>
+<div class="outline-text-2" id="text-orgf86f1aa">
 </div>
-<div id="outline-container-orgd8182de" class="outline-3">
-<h3 id="orgd8182de"><span class="section-number-3">6.1</span> A few short points on the formation of knowledge</h3>
-<div class="outline-text-3" id="text-6-1">
+<div id="outline-container-orgcc3dece" class="outline-3">
+<h3 id="orgcc3dece">A few short points on the formation of knowledge</h3>
+<div class="outline-text-3" id="text-orgcc3dece">
 </div>
-<div id="outline-container-org58e561b" class="outline-4">
-<h4 id="org58e561b"><span class="section-number-4">6.1.1</span> Ancient</h4>
+<div id="outline-container-org39284c2" class="outline-4">
+<h4 id="org39284c2">Ancient</h4>
 </div>
-<div id="outline-container-org54799fc" class="outline-4">
-<h4 id="org54799fc"><span class="section-number-4">6.1.2</span> Early Modern</h4>
+<div id="outline-container-org2704346" class="outline-4">
+<h4 id="org2704346">Early Modern</h4>
 </div>
-<div id="outline-container-org8369fc0" class="outline-4">
-<h4 id="org8369fc0"><span class="section-number-4">6.1.3</span> National States Period</h4>
+<div id="outline-container-orge30790f" class="outline-4">
+<h4 id="orge30790f">National States Period</h4>
 </div>
-<div id="outline-container-org6238620" class="outline-4">
-<h4 id="org6238620"><span class="section-number-4">6.1.4</span> Contemporary Perspectives</h4>
+<div id="outline-container-orgf0155f3" class="outline-4">
+<h4 id="orgf0155f3">Contemporary Perspectives</h4>
 </div>
-</div>
-</div>
-
-
-<div id="outline-container-org8300075" class="outline-2">
-<h2 id="org8300075"><span class="section-number-2">7</span> Adaptation and Adoption</h2>
-<div class="outline-text-2" id="text-7">
-</div>
-<div id="outline-container-org95e0b6a" class="outline-3">
-<h3 id="org95e0b6a"><span class="section-number-3">7.1</span> Features of Intagibles</h3>
-</div>
-<div id="outline-container-org62026ca" class="outline-3">
-<h3 id="org62026ca"><span class="section-number-3">7.2</span> Shared Strategies – the automaton blues</h3>
 </div>
 </div>
 
 
-<div id="outline-container-org5c2b66f" class="outline-2">
-<h2 id="org5c2b66f"><span class="section-number-2">8</span> Course Work</h2>
-<div class="outline-text-2" id="text-8">
+<div id="outline-container-orgf6c1a59" class="outline-2">
+<h2 id="orgf6c1a59">Adaptation and Adoption</h2>
+<div class="outline-text-2" id="text-orgf6c1a59">
+</div>
+<div id="outline-container-orge163bc9" class="outline-3">
+<h3 id="orge163bc9">Features of Intagibles</h3>
+</div>
+<div id="outline-container-orgde1c7d7" class="outline-3">
+<h3 id="orgde1c7d7">Shared Strategies – the automaton blues</h3>
+</div>
+</div>
+
+
+<div id="outline-container-org38c7702" class="outline-2">
+<h2 id="org38c7702">Course Work</h2>
+<div class="outline-text-2" id="text-org38c7702">
 <p>
 Semester requirements are to do the readings, and submit two essays,
 one short (ca. 1000 words) and one longer (ca. 2500 words). Actually,
 the medium that you present these works is flexible - in the past
 students have produced podcasts, written essays, made lesson
 plans. The important thing is that you work on forming an idea an
-presenting it in a coherent way. 
+presenting it in a coherent way.
 </p>
 </div>
 
-<div id="outline-container-org572a093" class="outline-3">
-<h3 id="org572a093"><span class="section-number-3">8.1</span> Where are the best places to borrow ideas?</h3>
+<div id="outline-container-org50b4e79" class="outline-3">
+<h3 id="org50b4e79">Where are the best places to borrow ideas?</h3>
 </div>
-<div id="outline-container-org6407ba1" class="outline-3">
-<h3 id="org6407ba1"><span class="section-number-3">8.2</span> Can we please make music theory a little less boring?</h3>
+<div id="outline-container-orgc204c60" class="outline-3">
+<h3 id="orgc204c60">Can we please make music theory a little less boring?</h3>
 </div>
 </div>
 </div>
 <div id="postamble" class="status">
 <p class="author">Author: adam</p>
-<p class="date">Created: 2020-10-30 Fri 15:04</p>
+<p class="date">Created: 2020-11-08 Sun 20:49</p>
 <p class="validation"><a href="http://validator.w3.org/check?uri=referer">Validate</a></p>
 </div>
 </body>
