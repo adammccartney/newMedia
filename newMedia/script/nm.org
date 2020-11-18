@@ -440,21 +440,62 @@ of ideas.
 + The artists job is to engage with the present totally
 
 
-** Douglas Rushkoff and Team Human
-*** Program or be Programmed
-[[https://www.youtube.com/watch?v=imV3pPIUy1k&feature=youtu.be]]
+* Computing: Another historical interlude
 
-*** Team Human Podcast
-[[https://teamhuman.fm]]
+"Give me six hours to chop down a tree and I will spend the first four sharpening the ax"
+- Abraham Lincoln
+
+The next couple of sections serve to offer a very brief overview of the history of computing. Although computers are ubiquitous and a thorough discussion of the history of their development might be of more interest to those with a more technical interest, the culture around computing is actually pretty interesting. We've been talking a lot over the past couple of lectures about some of the sociological developments that have taken place over the past 150-200 years. We've focused on the artist and the means of production used to make art. Also, we've asked some fairly general questions about how the context within which art is made (or taught) influences the production. The purpose of this rather long-winded exposition is to spend some time reasoning about our current environment. The better that we are able to perceive the situation, the more likely it is we will reach for the right tool when it comes time to do the work.
+
+** What the hell is a Unix?
+
+Unix is a simple operating system that was born in 1969, invented by Ken Thompson at Bell Laboratories (a research branch of AT&T). This is not really the place to go into a detailed history of how it developed, if you are interested, check out Brian Kernighan's writings on the subject, along with Eric S. Raymond and Mike Loukides. All will offer a slightly different perspective on the origins of Unix and how it has developed over the years.
+
+There are some diverging opinions on why Unix has been successful as an operating system. It's not uncommon to hear people speaking in hushed tones about free software and the open source movement as reasons for its longevity and success. Others will put it down to factors associated with the nature of the computer hardware business in the 1980s. Either case is not particularly important to understand for our purposes. What is important is that there seems to be some consensus around how its use in Universities and research environments ultimately contributed to its popularity. The point here being, that the University is still one of the rare places where a more open-ended form of creativity is encouraged. Unix suits researchers because it is accessible, easy to use and fun to hack.
+
+** History of the internet
++ invented as a way for mutually trusting and cooperative parties to exchange information
++ for a more detailed history see ... the internet
+** Internet overview
+
+*** Devices
++ host = end system, runs apps
+
+*** Communication Links
++ fiber, copper, radio, satellite
+
+*** Packet switches
++ routers and switches
+
+** Service view of the internet
+
+*** Provider of services to apps
++ Web, VoIP, email, games, eCommerce, social net
+
+*** Programming interface to apps
++ hooks
++ service options (postal)
+
 
 
 
 * Hackers and the open source movement
 ** Eric Raymond
 *** How to become a hacker
-[[http://www.catb.org/esr/faqs/hacker-howto.html]]
+[[http://www.catb.org/esr/faqs/hacker-howto.html*]]
+
 *** The new hacker's dictionary
 [[http://hackersdictionary.com/html/index.html]]
+
+
+* Media theory now (in 2020)
+
+** Douglas Rushkoff and Team Human
+*** Program or be Programmed
+[[https://www.youtube.com/watch?v=imV3pPIUy1k&feature=youtu.be]]
+
+*** Team Human Podcast
+[[https://teamhuman.fm]]
 
 
 * A brief history of epistemology
