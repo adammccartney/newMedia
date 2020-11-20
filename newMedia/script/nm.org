@@ -184,7 +184,7 @@ The emergence of the avaunt-grade
 The birth of cinema
 
 
-** The short 20Th century (1914 - 1996): Art in the Age of Extremes
+** The short 20th century (1914 - 1996): Art in the Age of Extremes
 *** Features of the early 20th century art landscape
 
 + Modernism
@@ -453,7 +453,7 @@ Unix is a simple operating system that was born in 1969, invented by Ken Thompso
 There are some diverging opinions on why Unix has been successful as an operating system. It's not uncommon to hear people speaking in hushed tones about free software and the open source movement as reasons for its longevity and success. Others will put it down to factors associated with the nature of the computer hardware business in the 1980s. Either case is not particularly important to understand for our purposes. What is important is that there seems to be some consensus around how its use in Universities and research environments ultimately contributed to its popularity. The point here being, that the University is still one of the rare places where a more open-ended form of creativity is encouraged. Unix suits researchers because it is accessible, easy to use and fun to hack.
 
 ** History of the internet
-+ invented as a way for mutually trusting and cooperative parties to exchange information
++ invented as a way for mutually trusting and cooperative parties to exchange information for the common good
 + for a more detailed history see ... the internet
 ** Internet overview
 
@@ -488,10 +488,12 @@ There are some diverging opinions on why Unix has been successful as an operatin
 
 * Access to information
  + Public libraries
-
  + University/Specialist Libraries
-
+   - MdW -> any registered student in Ausria can get a library card
+   - Nationalbibliothek
  + Bootleg libraries
+  - use a onion browser that masks your IP address to find bootleg libraries
+  - Tor browser to access Library Genesis https://gen.lib.rus.ec
 
 
 * Media theory now (in 2020)
@@ -503,6 +505,13 @@ There are some diverging opinions on why Unix has been successful as an operatin
 *** Team Human Podcast
 [[https://teamhuman.fm]]
 
+** The Social Dilemma
+ +  Critical
+ +  Real information less interesting than fake news
+ +  Reality / Hyper-reality
+
+** Hyperreality
+ +  Concept that was introduced by the French Philosopher Baudrilard
 
 * A brief history of epistemology
 ** A few short points on the formation of knowledge
