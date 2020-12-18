@@ -1,0 +1,1330 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<!-- 2020-12-17 Thu 17:31 -->
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>&lrm;</title>
+<meta name="generator" content="Org mode" />
+<meta name="author" content="adam" />
+<style type="text/css">
+ <!--/*--><![CDATA[/*><!--*/
+  .title  { text-align: center;
+             margin-bottom: .2em; }
+  .subtitle { text-align: center;
+              font-size: medium;
+              font-weight: bold;
+              margin-top:0; }
+  .todo   { font-family: monospace; color: red; }
+  .done   { font-family: monospace; color: green; }
+  .priority { font-family: monospace; color: orange; }
+  .tag    { background-color: #eee; font-family: monospace;
+            padding: 2px; font-size: 80%; font-weight: normal; }
+  .timestamp { color: #bebebe; }
+  .timestamp-kwd { color: #5f9ea0; }
+  .org-right  { margin-left: auto; margin-right: 0px;  text-align: right; }
+  .org-left   { margin-left: 0px;  margin-right: auto; text-align: left; }
+  .org-center { margin-left: auto; margin-right: auto; text-align: center; }
+  .underline { text-decoration: underline; }
+  #postamble p, #preamble p { font-size: 90%; margin: .2em; }
+  p.verse { margin-left: 3%; }
+  pre {
+    border: 1px solid #ccc;
+    box-shadow: 3px 3px 3px #eee;
+    padding: 8pt;
+    font-family: monospace;
+    overflow: auto;
+    margin: 1.2em;
+  }
+  pre.src {
+    position: relative;
+    overflow: visible;
+    padding-top: 1.2em;
+  }
+  pre.src:before {
+    display: none;
+    position: absolute;
+    background-color: white;
+    top: -10px;
+    right: 10px;
+    padding: 3px;
+    border: 1px solid black;
+  }
+  pre.src:hover:before { display: inline;}
+  /* Languages per Org manual */
+  pre.src-asymptote:before { content: 'Asymptote'; }
+  pre.src-awk:before { content: 'Awk'; }
+  pre.src-C:before { content: 'C'; }
+  /* pre.src-C++ doesn't work in CSS */
+  pre.src-clojure:before { content: 'Clojure'; }
+  pre.src-css:before { content: 'CSS'; }
+  pre.src-D:before { content: 'D'; }
+  pre.src-ditaa:before { content: 'ditaa'; }
+  pre.src-dot:before { content: 'Graphviz'; }
+  pre.src-calc:before { content: 'Emacs Calc'; }
+  pre.src-emacs-lisp:before { content: 'Emacs Lisp'; }
+  pre.src-fortran:before { content: 'Fortran'; }
+  pre.src-gnuplot:before { content: 'gnuplot'; }
+  pre.src-haskell:before { content: 'Haskell'; }
+  pre.src-hledger:before { content: 'hledger'; }
+  pre.src-java:before { content: 'Java'; }
+  pre.src-js:before { content: 'Javascript'; }
+  pre.src-latex:before { content: 'LaTeX'; }
+  pre.src-ledger:before { content: 'Ledger'; }
+  pre.src-lisp:before { content: 'Lisp'; }
+  pre.src-lilypond:before { content: 'Lilypond'; }
+  pre.src-lua:before { content: 'Lua'; }
+  pre.src-matlab:before { content: 'MATLAB'; }
+  pre.src-mscgen:before { content: 'Mscgen'; }
+  pre.src-ocaml:before { content: 'Objective Caml'; }
+  pre.src-octave:before { content: 'Octave'; }
+  pre.src-org:before { content: 'Org mode'; }
+  pre.src-oz:before { content: 'OZ'; }
+  pre.src-plantuml:before { content: 'Plantuml'; }
+  pre.src-processing:before { content: 'Processing.js'; }
+  pre.src-python:before { content: 'Python'; }
+  pre.src-R:before { content: 'R'; }
+  pre.src-ruby:before { content: 'Ruby'; }
+  pre.src-sass:before { content: 'Sass'; }
+  pre.src-scheme:before { content: 'Scheme'; }
+  pre.src-screen:before { content: 'Gnu Screen'; }
+  pre.src-sed:before { content: 'Sed'; }
+  pre.src-sh:before { content: 'shell'; }
+  pre.src-sql:before { content: 'SQL'; }
+  pre.src-sqlite:before { content: 'SQLite'; }
+  /* additional languages in org.el's org-babel-load-languages alist */
+  pre.src-forth:before { content: 'Forth'; }
+  pre.src-io:before { content: 'IO'; }
+  pre.src-J:before { content: 'J'; }
+  pre.src-makefile:before { content: 'Makefile'; }
+  pre.src-maxima:before { content: 'Maxima'; }
+  pre.src-perl:before { content: 'Perl'; }
+  pre.src-picolisp:before { content: 'Pico Lisp'; }
+  pre.src-scala:before { content: 'Scala'; }
+  pre.src-shell:before { content: 'Shell Script'; }
+  pre.src-ebnf2ps:before { content: 'ebfn2ps'; }
+  /* additional language identifiers per "defun org-babel-execute"
+       in ob-*.el */
+  pre.src-cpp:before  { content: 'C++'; }
+  pre.src-abc:before  { content: 'ABC'; }
+  pre.src-coq:before  { content: 'Coq'; }
+  pre.src-groovy:before  { content: 'Groovy'; }
+  /* additional language identifiers from org-babel-shell-names in
+     ob-shell.el: ob-shell is the only babel language using a lambda to put
+     the execution function name together. */
+  pre.src-bash:before  { content: 'bash'; }
+  pre.src-csh:before  { content: 'csh'; }
+  pre.src-ash:before  { content: 'ash'; }
+  pre.src-dash:before  { content: 'dash'; }
+  pre.src-ksh:before  { content: 'ksh'; }
+  pre.src-mksh:before  { content: 'mksh'; }
+  pre.src-posh:before  { content: 'posh'; }
+  /* Additional Emacs modes also supported by the LaTeX listings package */
+  pre.src-ada:before { content: 'Ada'; }
+  pre.src-asm:before { content: 'Assembler'; }
+  pre.src-caml:before { content: 'Caml'; }
+  pre.src-delphi:before { content: 'Delphi'; }
+  pre.src-html:before { content: 'HTML'; }
+  pre.src-idl:before { content: 'IDL'; }
+  pre.src-mercury:before { content: 'Mercury'; }
+  pre.src-metapost:before { content: 'MetaPost'; }
+  pre.src-modula-2:before { content: 'Modula-2'; }
+  pre.src-pascal:before { content: 'Pascal'; }
+  pre.src-ps:before { content: 'PostScript'; }
+  pre.src-prolog:before { content: 'Prolog'; }
+  pre.src-simula:before { content: 'Simula'; }
+  pre.src-tcl:before { content: 'tcl'; }
+  pre.src-tex:before { content: 'TeX'; }
+  pre.src-plain-tex:before { content: 'Plain TeX'; }
+  pre.src-verilog:before { content: 'Verilog'; }
+  pre.src-vhdl:before { content: 'VHDL'; }
+  pre.src-xml:before { content: 'XML'; }
+  pre.src-nxml:before { content: 'XML'; }
+  /* add a generic configuration mode; LaTeX export needs an additional
+     (add-to-list 'org-latex-listings-langs '(conf " ")) in .emacs */
+  pre.src-conf:before { content: 'Configuration File'; }
+
+  table { border-collapse:collapse; }
+  caption.t-above { caption-side: top; }
+  caption.t-bottom { caption-side: bottom; }
+  td, th { vertical-align:top;  }
+  th.org-right  { text-align: center;  }
+  th.org-left   { text-align: center;   }
+  th.org-center { text-align: center; }
+  td.org-right  { text-align: right;  }
+  td.org-left   { text-align: left;   }
+  td.org-center { text-align: center; }
+  dt { font-weight: bold; }
+  .footpara { display: inline; }
+  .footdef  { margin-bottom: 1em; }
+  .figure { padding: 1em; }
+  .figure p { text-align: center; }
+  .equation-container {
+    display: table;
+    text-align: center;
+    width: 100%;
+  }
+  .equation {
+    vertical-align: middle;
+  }
+  .equation-label {
+    display: table-cell;
+    text-align: right;
+    vertical-align: middle;
+  }
+  .inlinetask {
+    padding: 10px;
+    border: 2px solid gray;
+    margin: 10px;
+    background: #ffffcc;
+  }
+  #org-div-home-and-up
+   { text-align: right; font-size: 70%; white-space: nowrap; }
+  textarea { overflow-x: auto; }
+  .linenr { font-size: smaller }
+  .code-highlighted { background-color: #ffff00; }
+  .org-info-js_info-navigation { border-style: none; }
+  #org-info-js_console-label
+    { font-size: 10px; font-weight: bold; white-space: nowrap; }
+  .org-info-js_search-highlight
+    { background-color: #ffff00; color: #000000; font-weight: bold; }
+  .org-svg { width: 90%; }
+  /*]]>*/-->
+</style>
+<script type="text/javascript">
+/*
+@licstart  The following is the entire license notice for the
+JavaScript code in this tag.
+
+Copyright (C) 2012-2020 Free Software Foundation, Inc.
+
+The JavaScript code in this tag is free software: you can
+redistribute it and/or modify it under the terms of the GNU
+General Public License (GNU GPL) as published by the Free Software
+Foundation, either version 3 of the License, or (at your option)
+any later version.  The code is distributed WITHOUT ANY WARRANTY;
+without even the implied warranty of MERCHANTABILITY or FITNESS
+FOR A PARTICULAR PURPOSE.  See the GNU GPL for more details.
+
+As additional permission under GNU GPL version 3 section 7, you
+may distribute non-source (e.g., minimized or compacted) forms of
+that code without the copy of the GNU GPL normally required by
+section 4, provided you include this license notice and a URL
+through which recipients can access the Corresponding Source.
+
+
+@licend  The above is the entire license notice
+for the JavaScript code in this tag.
+*/
+<!--/*--><![CDATA[/*><!--*/
+ function CodeHighlightOn(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(null != target) {
+     elem.cacheClassElem = elem.className;
+     elem.cacheClassTarget = target.className;
+     target.className = "code-highlighted";
+     elem.className   = "code-highlighted";
+   }
+ }
+ function CodeHighlightOff(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(elem.cacheClassElem)
+     elem.className = elem.cacheClassElem;
+   if(elem.cacheClassTarget)
+     target.className = elem.cacheClassTarget;
+ }
+/*]]>*///-->
+</script>
+</head>
+<body>
+<div id="content">
+<div id="table-of-contents">
+<h2>Table of Contents</h2>
+<div id="text-table-of-contents">
+<ul>
+<li><a href="#orgb72d375">1. Overview</a>
+<ul>
+<li><a href="#org02e40e8">1.1. Course Structure</a></li>
+<li><a href="#orgd930554">1.2. Philosophy of Teaching</a>
+<ul>
+<li><a href="#org3cfe37a">1.2.1. 7 Liberal Arts of the medieval university</a></li>
+</ul>
+</li>
+<li><a href="#orga7854c6">1.3. Where and how to access material</a></li>
+<li><a href="#orgbfda3b8">1.4. Portability and how to apply course content</a></li>
+</ul>
+</li>
+<li><a href="#orgeb4b6ce">2. The long 19th century (1789 - 1914)</a>
+<ul>
+<li>
+<ul>
+<li><a href="#org5f333d6">2.0.1. A brief history of art leading up to the industrial revolution</a></li>
+<li><a href="#org55e5f43">2.0.2. Art in the Age of Revolution (1789 - 1848)</a></li>
+<li><a href="#org8194fe8">2.0.3. Utopia</a></li>
+<li><a href="#orgf646ad2">2.0.4. Art in the Age of Capital (1848 - 1875)</a></li>
+<li><a href="#org449475d">2.0.5. Art in the Age of Empire (1875 - 1914)</a></li>
+</ul>
+</li>
+<li><a href="#org6725ce3">2.1. The short 20th century (1914 - 1996): Art in the Age of Extremes</a>
+<ul>
+<li><a href="#org49e7dc2">2.1.1. Features of the early 20th century art landscape</a></li>
+<li><a href="#orgfc8ac5c">2.1.2. Postwar Arts</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="#org189b0f1">3. Aesthetic and sociological perspectives</a>
+<ul>
+<li><a href="#org26a62dd">3.1. Critical Theory</a>
+<ul>
+<li><a href="#org03cd74e">3.1.1. Walter Benjamin</a></li>
+<li><a href="#orga5a79d1">3.1.2. The Work of Art in the Age of Mechanical Reproduction</a></li>
+</ul>
+</li>
+<li><a href="#org160fe11">3.2. John Dewey's Aesthetics</a>
+<ul>
+<li><a href="#org5ed1e45">3.2.1. Pragmatism</a></li>
+<li><a href="#orgdda458a">3.2.2. The Live Creature</a></li>
+<li><a href="#org7bbcace">3.2.3. Emotions</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="#orga569344">4. Media Theory</a>
+<ul>
+<li><a href="#org0da7cef">4.1. Marshall McLuhan</a>
+<ul>
+<li><a href="#orge70bd23">4.1.1. Biographical Note</a></li>
+<li><a href="#org59cf8ba">4.1.2. Early Influence</a></li>
+<li><a href="#orgc96b023">4.1.3. The book as technology</a></li>
+<li><a href="#orgb5f3ed2">4.1.4. The Medium is the message</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="#orga355536">5. Computing: Another historical interlude</a>
+<ul>
+<li><a href="#orga9f8c89">5.1. What the hell is a Unix?</a></li>
+<li><a href="#org47b6095">5.2. History of the internet</a></li>
+<li><a href="#org908ac10">5.3. Internet overview</a>
+<ul>
+<li><a href="#org347ea00">5.3.1. Devices</a></li>
+<li><a href="#orgc6d8809">5.3.2. Communication Links</a></li>
+<li><a href="#orgee61519">5.3.3. Packet switches</a></li>
+</ul>
+</li>
+<li><a href="#org38f6917">5.4. Service view of the internet</a>
+<ul>
+<li><a href="#orgc40ca09">5.4.1. Provider of services to apps</a></li>
+<li><a href="#org7212529">5.4.2. Programming interface to apps</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="#orgedfe22d">6. Hackers and the open source movement</a>
+<ul>
+<li><a href="#org9fcab99">6.1. Eric Raymond</a>
+<ul>
+<li><a href="#org20bd625">6.1.1. How to become a hacker</a></li>
+<li><a href="#orgf0aaa3d">6.1.2. The new hacker's dictionary</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="#org77971d3">7. Access to information</a></li>
+<li><a href="#orgbc80459">8. Media theory now (in 2020)</a>
+<ul>
+<li><a href="#org6fe028d">8.1. Douglas Rushkoff and Team Human</a>
+<ul>
+<li><a href="#orgb020795">8.1.1. Program or be Programmed</a></li>
+<li><a href="#org7aa1328">8.1.2. Team Human Podcast</a></li>
+</ul>
+</li>
+<li><a href="#org9be5f6f">8.2. The Social Dilemma</a></li>
+<li><a href="#org12ea4b6">8.3. Hyperreality</a></li>
+</ul>
+</li>
+<li><a href="#org20b401e">9. A brief history of epistemology</a>
+<ul>
+<li><a href="#orgedf2c1c">9.1. A few short points on the formation of knowledge</a>
+<ul>
+<li><a href="#org669d3b6">9.1.1. Ancient</a></li>
+<li><a href="#org4846d07">9.1.2. Early Modern</a></li>
+<li><a href="#org178e258">9.1.3. National States Period</a></li>
+<li><a href="#org0175e7f">9.1.4. Contemporary Perspectives</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="#org2bc570a">10. Adaptation and Adoption</a>
+<ul>
+<li><a href="#orge4b862b">10.1. Features of Intagibles</a>
+<ul>
+<li><a href="#org18912cf">10.1.1. Sunkness</a></li>
+<li><a href="#orgb816302">10.1.2. Scalability</a></li>
+<li><a href="#orge29949c">10.1.3. Synergy</a></li>
+<li><a href="#org01fc9ec">10.1.4. Side effects&#xa0;&#xa0;&#xa0;<span class="tag"><span class="w">w</span></span></a></li>
+</ul>
+</li>
+<li><a href="#org802e508">10.2. Shared Strategies – the automaton/FSM blues</a></li>
+</ul>
+</li>
+<li><a href="#org5482033">11. Course Work</a>
+<ul>
+<li><a href="#org13e010f">11.1. Where are the best places to borrow ideas?</a></li>
+<li><a href="#org1b32eb4">11.2. Can we please make music theory a little less boring?</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-orgb72d375" class="outline-2">
+<h2 id="orgb72d375"><span class="section-number-2">1</span> Overview</h2>
+<div class="outline-text-2" id="text-1">
+</div>
+<div id="outline-container-org02e40e8" class="outline-3">
+<h3 id="org02e40e8"><span class="section-number-3">1.1</span> Course Structure</h3>
+<div class="outline-text-3" id="text-1-1">
+<p>
+This course is an introduction to media theory – a subcategory of
+philosophy that emerged in the mid 20th century as an attempt to
+understand the impact that new technologies were having on the
+individual and, in a broader sense, society.
+The general tone used to convey the ideas contained throughout the
+notes and lectures will be an informal one, you refers to you the
+reader, listener and student. We refers to the teachers, authors and
+students that have been consulted in developing the material for this
+course. Us refers to the group that we happen to find ourselves in at
+any particular moment in time. And I refers to me, the teacher, Adam McCartney.
+This course is intended to introduce undergraduate level music
+students to the broader disciplines relevant for professional work in
+the arts and humanities. There are those who would consider it absurd
+that now, in the 21st century, investing in anything but a science
+related degree is simply a waste. In the face of such beliefs, it is
+worth pausing briefly to remember a simple point made by John Henry
+Newman, that a solid education in the liberal arts equips a student
+with tools that will ultimately lead them to become better engineers,
+scientists, doctors, artists, lawyers and etc.
+</p>
+</div>
+</div>
+
+
+<div id="outline-container-orgd930554" class="outline-3">
+<h3 id="orgd930554"><span class="section-number-3">1.2</span> Philosophy of Teaching</h3>
+<div class="outline-text-3" id="text-1-2">
+<p>
+<img src="./descartes.png" alt="descartes.png" />
+The satisfaction that can be gained through learning, teaching and
+generally sharing information and can be immense. My more positive
+experiences over the years as a student and teacher have tended to
+come from courses, books, tutorials, videos, discussions that were
+clear enough to allow enable an understanding of the topic from
+first principles – that is to say that the material related to
+the topic was assembled in such a way as to reveal its most
+fundamental ideas. Its virtually always beneficial to ask rudimentary
+questions about whatever it is that we are trying to understand, as
+such questions will quickly reveal whether or not the topic under
+discussion has a basis in fact.
+This course also aims to introduce some of the core methods that are
+useful anywhere that it becomes necessary to think about something:
+</p>
+
+<ul class="org-ul">
+<li>Discourse</li>
+<li>Reason</li>
+<li>Logic</li>
+<li>Debate</li>
+<li>Reference</li>
+</ul>
+</div>
+
+
+<div id="outline-container-org3cfe37a" class="outline-4">
+<h4 id="org3cfe37a"><span class="section-number-4">1.2.1</span> 7 Liberal Arts of the medieval university</h4>
+<div class="outline-text-4" id="text-1-2-1">
+<ul class="org-ul">
+<li>Grammar</li>
+<li>Rhetoric</li>
+<li>Logic</li>
+<li>Geometry</li>
+<li>Arithmetic</li>
+<li>Music</li>
+<li>Astronomy</li>
+</ul>
+</div>
+</div>
+</div>
+
+<div id="outline-container-orga7854c6" class="outline-3">
+<h3 id="orga7854c6"><span class="section-number-3">1.3</span> Where and how to access material</h3>
+<div class="outline-text-3" id="text-1-3">
+<p>
+The primary source of information for topics presented in this course
+can be found in the VMI digital library, which is labelled <i>Academic
+Resources For Students</i> and will appear as a link on the homepage of
+your Moodle eLearning profile.
+Please take the time to do the readings, this will prepare you for the
+discussions that will take place during class. Thinking about things
+is a practical exercise, it‘s the same as riding a bicycle or learning
+to play an instrument. That means that the only way that you are going
+to learn how to think is by engaging with the readings and
+exercises. Much the same as any activity that is worth learning,
+thinking is difficult and takes a lot of patience to get right.
+The texts that were chosen to be part of the course are all written in
+an accessible style and are not overtly academic or
+technical. Nevertheless, they do contain  ideas and arguments that you
+might not get on the first reading.  My two favorite reading
+disciplines  from when I was an undergraduate were the practice of
+reading for a pre-allocated amount of time and also reading each text
+at least three times in preparation for a class.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgbfda3b8" class="outline-3">
+<h3 id="orgbfda3b8"><span class="section-number-3">1.4</span> Portability and how to apply course content</h3>
+<div class="outline-text-3" id="text-1-4">
+<p>
+Should you try and tell your piano tuner about Ludwig Wittgenstein‘s
+ideas on the formation of knowledge? Definitely not! In fact, they
+would be more likely to charge you extra fees just to get your piano
+tuned if you chose to do so.
+So where exactly can this knowledge be applied? A friend of mine is a
+hobby programmer and he recently told me his principle approach to
+work. He called it „eat your own dogfood“. Now obviously the idea of
+eating any kind of dogfood does not sound particularly appetizing, but
+it is worth considering that dogs can also eat cake. The simple idea
+here is that whatever type of idea or discipline you develop, it is
+better first practiced on yourself before inflicting it upon the rest
+of us; when properly cultivated a discipline is a way to nourish,
+develop and sustain.
+</p>
+</div>
+</div>
+</div>
+
+
+
+
+<div id="outline-container-orgeb4b6ce" class="outline-2">
+<h2 id="orgeb4b6ce"><span class="section-number-2">2</span> The long 19th century (1789 - 1914)</h2>
+<div class="outline-text-2" id="text-2">
+</div>
+<div id="outline-container-org5f333d6" class="outline-4">
+<h4 id="org5f333d6"><span class="section-number-4">2.0.1</span> A brief history of art leading up to the industrial revolution</h4>
+<div class="outline-text-4" id="text-2-0-1">
+<p>
+The renaissance had shown that the rise of merchant classes was
+possible, and that there was room for a talented craftspeople to build
+a career out of a good reputation. Still, even the most talented
+artists from the renaissance and baroque periods were subjects of
+some royal court and often patronized (though less commonly so than in
+the middle ages and early renaissance) by the clergy. The dominant
+motives of these eras were, for instance, dedicated to the nobility
+and to the church. An appreciation for human ingenuity was growing and
+quietly, a new philosophy of reason and enlightenment was being born.
+</p>
+</div>
+</div>
+
+
+<div id="outline-container-org55e5f43" class="outline-4">
+<h4 id="org55e5f43"><span class="section-number-4">2.0.2</span> Art in the Age of Revolution (1789 - 1848)</h4>
+<div class="outline-text-4" id="text-2-0-2">
+<p>
+Before it turned into a bloody mess, the core ideals of the French
+Revolution (freedom, equality and brotherhood) seemed to be an
+articulation of the broader hopes of humanity for a brighter future.
+Many of the artists of the late 18th and early 19th centuries echoed
+these newly formed ideas of the enlightenment.
+</p>
+
+<ul class="org-ul">
+<li>50 years that included late Mozart, Haydn, Beethoven, Schubert, Goethe, Dickens,
+Dostoevsky, Verdi, Wagner, Mary Wollstonecraft, Mary Shelly</li>
+<li>Art made to appeal to a literate public that was increasing in
+size</li>
+<li>The invention of machinery reduced the cost of physical labor for
+many, meaning there was more free time for education and pastimes</li>
+<li>Aesthetic themes often contained pastoral elements, or sought to
+simplify harmonies and form.</li>
+<li>The influence from classical antiquity frequently appear, along with
+references to similar threads from the renaissance</li>
+</ul>
+
+
+<div class="figure">
+<p><img src="./Turner_-_Rain,_Steam_and_Speed_-_National_Gallery_file.jpg" alt="Turner_-_Rain,_Steam_and_Speed_-_National_Gallery_file.jpg" />
+</p>
+<p><span class="figure-number">Figure 1: </span>William Turner - Rain, Steam and Speed</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-org8194fe8" class="outline-4">
+<h4 id="org8194fe8"><span class="section-number-4">2.0.3</span> Utopia</h4>
+<div class="outline-text-4" id="text-2-0-3">
+<p>
+Much of the art of the age focused Utopian ideals, be they either in
+some possible future or some glorified past: there were large
+collections of folk tales, songs and verses that emerged during this
+period that bore testament to the vision of "the folk" as being
+inherently virtuous. The new movements toward industrialized living
+and a faster pace of life, on the other hand, was often viewed with at
+least the usual amount of suspicion. Of course, the of a fall from
+grace and the quest for redemption is literally as old as Adam and Eve.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgf646ad2" class="outline-4">
+<h4 id="orgf646ad2"><span class="section-number-4">2.0.4</span> Art in the Age of Capital (1848 - 1875)</h4>
+<div class="outline-text-4" id="text-2-0-4">
+<p>
+Having seen what the first half of the 19th century delivered in terms
+of the arts, it's not surprising that this period during the later half of
+the century appears somewhat underwhelming. Perhaps the real
+achievements.
+</p>
+<ul class="org-ul">
+<li>the era produced a rather curious architectural style with
+increasingly large proportions - this marks a contrast to the
+classically influences in the styles (like Biedermeier) that
+immediately preceded, where in central focus were human proportions</li>
+<li>funding structures of the arts changed: they were now supported by
+governments, bourgeoisie and increasingly the emerging working /
+middle class</li>
+<li>the Viennese ring serves as a good example to the monuments of the age</li>
+<li>first appearance of technically reproducible works of art (early
+photo camera had an immediate and profound effect on painting</li>
+<li>arts were in every sense popular by the third quarter of the
+century, with widely distributed novels</li>
+<li>possible for artists to earn a good living and many (even if not
+rich) were well respected</li>
+<li>arts came to occupy a semi-religious position for many of the new
+middle class, also (in the case of the German speaking world) a
+symbol of success and status to rival Britain's economic spoils</li>
+<li>the artists were seen as sources of truth, authorities on beauty</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org449475d" class="outline-4">
+<h4 id="org449475d"><span class="section-number-4">2.0.5</span> Art in the Age of Empire (1875 - 1914)</h4>
+<div class="outline-text-4" id="text-2-0-5">
+<p>
+Bourgeois identity crisis
+</p>
+<ul class="org-ul">
+<li>Orientalism</li>
+<li>pastiche</li>
+</ul>
+
+<p>
+Established and entitled artistic circles
+</p>
+<ul class="org-ul">
+<li>the Successions of Vienna &amp; Berlin</li>
+<li>the New English Arts Club</li>
+<li>successors to the French Impressionist Exhibition</li>
+</ul>
+
+<p>
+The emergence of the avaunt-grade
+</p>
+<ul class="org-ul">
+<li>very limited public reception</li>
+<li>the anti-reality star? (like Picasso, appreciated for their
+phenomenal output as opposed to the qualities or content of the work)</li>
+</ul>
+
+<p>
+The birth of cinema
+</p>
+</div>
+</div>
+
+
+<div id="outline-container-org6725ce3" class="outline-3">
+<h3 id="org6725ce3"><span class="section-number-3">2.1</span> The short 20th century (1914 - 1996): Art in the Age of Extremes</h3>
+<div class="outline-text-3" id="text-2-1">
+</div>
+<div id="outline-container-org49e7dc2" class="outline-4">
+<h4 id="org49e7dc2"><span class="section-number-4">2.1.1</span> Features of the early 20th century art landscape</h4>
+<div class="outline-text-4" id="text-2-1-1">
+<ul class="org-ul">
+<li>Modernism</li>
+<li>Dadaism, Constructivism, Surrealism</li>
+<li>Decided move away from conventional Bourgeois tastes</li>
+<li>Europe (Paris) between the wars</li>
+<li>The invention of cinema &amp; jazz</li>
+<li>Battleship Potemkin { watch?v=VMWMq4AEyjU }</li>
+<li>Jazz: syncopated Afro rhythms meets mechanical reproduction</li>
+<li>Murillo was out El Greco was in</li>
+<li>Also rejected: Age of Capital and Age of Empire</li>
+<li>Viennese Ring considered pompous &amp; inauthentic</li>
+<li>most of the avant garde artists identified with progressive politics</li>
+<li>rise of Hitler and Stalin meant that most of the avant garde immigrated to the USA</li>
+<li>James Joyce Ulysses: going to the common man</li>
+<li>Mass media and propaganda</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-orgfc8ac5c" class="outline-4">
+<h4 id="orgfc8ac5c"><span class="section-number-4">2.1.2</span> Postwar Arts</h4>
+<div class="outline-text-4" id="text-2-1-2">
+<ul class="org-ul">
+<li>Rock &amp; Roll, the LP</li>
+<li>the advertising industry</li>
+<li>the emergence of pop art</li>
+<li>Shift away from Europe</li>
+<li>The establishment new social democratic norms post 1950 - massive increase government funding for the arts tax-breaks in the States for wealthy patrons</li>
+<li>Art as Investment</li>
+<li>Massive Expansion of higher education</li>
+<li>Classical music - decline in old genres concealed by the enormous increase in their performance mostly a repertoire of dead classics</li>
+<li>Personal Electronics</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+
+
+<div id="outline-container-org189b0f1" class="outline-2">
+<h2 id="org189b0f1"><span class="section-number-2">3</span> Aesthetic and sociological perspectives</h2>
+<div class="outline-text-2" id="text-3">
+</div>
+<div id="outline-container-org26a62dd" class="outline-3">
+<h3 id="org26a62dd"><span class="section-number-3">3.1</span> Critical Theory</h3>
+<div class="outline-text-3" id="text-3-1">
+<p>
+Reference: <a href="https://plato.stanford.edu/entries/critical-theory/">https://plato.stanford.edu/entries/critical-theory/</a>
+</p>
+
+<p>
+In the narrow sense, critical theory refers to a strain of Marxist
+philosophy that appeared in early 20th century Germany. It is critical
+in the sense that it seeks human "emancipation from slavery", acts as
+a "liberating &#x2026; influence", and works to "create a world which
+satisfies the needs and powers" of human beings (Horkheimer 1972, 246)
+</p>
+
+<p>
+Key figures of "the Frankfurt School": Max Horkheimer, Theodor Adorno,
+Marcuse, Benjamin
+</p>
+
+<p>
+Being a strain of Marxist philosophy, central to critical theory is a
+critique of Capitalism. Furthermore, a strong emphasis is placed on a
+belief that civil society and human culture in general is undergoing a
+process of degeneration due to the commodification of artistic
+production and aesthetic experience.
+</p>
+
+<p>
+It could be argued that much of critical theory is based on a
+revivification of an aspect of Kant's categorical imperative: namely,
+that one should avoid using people (including oneself) as a means to
+an end. A critical theorist such as Adorno might argue that
+contemporary pop that has been used in the service of some form of
+advertising, is ultimately less moral and therefor less good or
+effective than say, Beethoven's 7th symphony. (Adorno <i>really</i> liked
+Beethoven and was big into the idea of "absolute" music).
+</p>
+
+<p>
+By the same reasoning, one could argue that the whole discipline of
+Critical Theory is morally corrupt due to the simple fact that it
+essentially seeks to hi-jack and politicize branches of philosophy
+such as aesthetics (which are by no means inherently political).
+</p>
+</div>
+
+<div id="outline-container-org03cd74e" class="outline-4">
+<h4 id="org03cd74e"><span class="section-number-4">3.1.1</span> Walter Benjamin</h4>
+<div class="outline-text-4" id="text-3-1-1">
+<p>
+A Berlin born art theorist / philosopher whose writings were a large
+influence on Theodor Adorno. Also a fairly dedicated Marxist, who
+</p>
+</div>
+</div>
+
+<div id="outline-container-orga5a79d1" class="outline-4">
+<h4 id="orga5a79d1"><span class="section-number-4">3.1.2</span> The Work of Art in the Age of Mechanical Reproduction</h4>
+</div>
+</div>
+
+<div id="outline-container-org160fe11" class="outline-3">
+<h3 id="org160fe11"><span class="section-number-3">3.2</span> John Dewey's Aesthetics</h3>
+<div class="outline-text-3" id="text-3-2">
+</div>
+<div id="outline-container-org5ed1e45" class="outline-4">
+<h4 id="org5ed1e45"><span class="section-number-4">3.2.1</span> Pragmatism</h4>
+<div class="outline-text-4" id="text-3-2-1">
+<p>
+Originated in the United States towards the end of the 19th century,
+largely as a reaction to what was considered the overly theoretical
+and technical nature of continental philosophy.
+</p>
+
+<p>
+Notable Figures included William James and George Herbert Mead, who
+had the idea that it was only possible to define a person through
+their actions in the world.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgdda458a" class="outline-4">
+<h4 id="orgdda458a"><span class="section-number-4">3.2.2</span> The Live Creature</h4>
+<div class="outline-text-4" id="text-3-2-2">
+<p>
+Notes on reading: <a href="https://plato.stanford.edu/entries/dewey-aesthetics/">https://plato.stanford.edu/entries/dewey-aesthetics/</a>
+</p>
+
+<p>
+First couple of points to note relate to the historical evolution of
+aesthetics. With the rise of nationalism and imperialism, art became
+disassociated from religious right and with the growing dominance of
+capitalism, became more about documenting material wealth than
+integrating personal with collective experience.
+</p>
+
+<p>
+This idea of the quality of experience is seemingly central to Dewey's
+aesthetics. It follows quite logically that experience happens
+essentially in conjunction with the environment and not just <i>in</i>
+it. Whether or not life experience can be reduced solely to the basis
+of needs and conquest, is not so clear. I do not think that it is self
+evident that all conflict and resolution arises from the frustration
+or gratification of basic physical or physio-psychological urges.
+</p>
+
+<p>
+Nevertheless, it is possible to imagine how Dewey might try to
+structure his thought at this stage as he suggests that harmony and
+equilibrium arise from the resolution of tension. Awareness of this
+process, the rhythmic alteration between states of unity and disunity
+signifies conscious participation in the phenomenon of experience.
+</p>
+
+<p>
+Dewey seems to suggest here that emotions are breaks in experience,
+something to be understood in retrospect. More specifically he refers
+to emotions as signifiers that disrupt experience. This does make some
+sense, as the presence of an emotion seems, quite certainly, to
+require a level of abstraction that seems to move the subject into an
+acute awareness of the distinct mode, through which he now views experience.
+</p>
+
+<p>
+He sets up an interesting comparison between scientist and artist,
+shows that both are trying to shape material according to their thought processes.
+</p>
+
+<p>
+He points out that nature already has emotional qualities. That some
+aspects may appear comforting or disturbing.
+</p>
+
+<p>
+Aesthetic experience then involves a temporal process where action,
+feeling and meaning are one.  The cumulative effect of these on one
+another is balance. This is only possible, in a dynamic world, where
+experience takes place.
+</p>
+
+<p>
+Passing out of disturbance into harmony can provide man's most intense
+experience. Happiness is the result of a deep fulfillment in which our
+whole being has adjusted to the environment. This seems to directly
+contradict what he says above about emotion, although on a more subtle
+level he seems to be suggesting something closer to integration here
+than happiness. Personally, I would place the core of aesthetics at integration.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org7bbcace" class="outline-4">
+<h4 id="org7bbcace"><span class="section-number-4">3.2.3</span> Emotions</h4>
+<div class="outline-text-4" id="text-3-2-3">
+<p>
+The previous section suggests that aesthetics is essentially an act of
+integration. The experience of this act, ultimately leads to an
+emotional experience. Emotions are not static, they posses dynamic
+qualities and can grow or shrink over time.
+</p>
+</div>
+</div>
+</div>
+</div>
+
+
+
+
+
+
+
+<div id="outline-container-orga569344" class="outline-2">
+<h2 id="orga569344"><span class="section-number-2">4</span> Media Theory</h2>
+<div class="outline-text-2" id="text-4">
+</div>
+<div id="outline-container-org0da7cef" class="outline-3">
+<h3 id="org0da7cef"><span class="section-number-3">4.1</span> Marshall McLuhan</h3>
+<div class="outline-text-3" id="text-4-1">
+</div>
+<div id="outline-container-orge70bd23" class="outline-4">
+<h4 id="orge70bd23"><span class="section-number-4">4.1.1</span> Biographical Note</h4>
+<div class="outline-text-4" id="text-4-1-1">
+<ul class="org-ul">
+<li>born Edmonton, Canada 1911</li>
+<li>died 1980</li>
+<li>BA/MA at the University of Manitoba</li>
+<li>Doctoral Studies at Cambridge</li>
+</ul>
+<p>
+<a href="https://www.marshallmcluhan.com/biography/">https://www.marshallmcluhan.com/biography/</a>
+</p>
+</div>
+</div>
+
+
+<div id="outline-container-org59cf8ba" class="outline-4">
+<h4 id="org59cf8ba"><span class="section-number-4">4.1.2</span> Early Influence</h4>
+<div class="outline-text-4" id="text-4-1-2">
+<p>
+At Cambridge (entering in 1934) he studied under the professors I.A. Richards and
+F.R. Leavis.
+</p>
+
+<p>
+It's worth considering that there were some pretty incredible advances
+taking place in the fields of Mathematics and Physics (both
+theoretical and applied) during the first half of the 20th century.
+</p>
+
+<ul class="org-ul">
+<li>Bertrand Russell and Alfred North Whitehead had published "Principia
+Mathematica", both of whom held professorships in mathematics at Cambridge</li>
+<li>Ludwig Wittgenstein started a fellowship at the University in 1929</li>
+<li>Alan Turing studied there as an undergrad from 1931 to 1934 and was
+elected a fellow of King's College in 1935 (at age 22) after his
+dissertation offering a proof of central limit theorem was well
+received</li>
+</ul>
+
+<p>
+Besides the obvious name dropping, the purpose of pointing out these
+figures is to emphasize that there was a lot of "technical" academic
+work happening at Cambridge during this time. In particular, Russell &amp;
+Whiteheads work on finding a formal description of mathematics saw the
+development of specialist notation.
+</p>
+
+<p>
+In an attempt to keep up with these advances, fields more
+traditionally rooted in the humanities, themselves began to embody the
+new practices of logic and formalism as they emerged from mathematics,
+physics and early computational theory.
+</p>
+
+<p>
+It seems that I.A. Richards was particularly interested in forming a
+new, multidisciplinary approach to literary criticism that could give
+formalist, self-contained and objective accounts of what was being
+said in any literary work. It appears that to some degree, Richards
+was trying to incorporate cybernetics into his theories on literary
+criticism.
+</p>
+
+<p>
+Thinking about the human mind as one part of a cybernetic system, was
+an idea that influenced McLuhan profoundly, and research in and around
+this idea became a central part of his work throughout the rest of his
+career.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgc96b023" class="outline-4">
+<h4 id="orgc96b023"><span class="section-number-4">4.1.3</span> The book as technology</h4>
+<div class="outline-text-4" id="text-4-1-3">
+<p>
+<i>"Water is unknown to a fish until it discovers air"</i>
+</p>
+
+<p>
+In "The Gutenberg Galaxy" McLuhan presents a dazzling array of ideas,
+that often closely focus on the multi-sensory (or multi-dimensional)
+context of literary ideas. For instance, he writes about Shakespeare's
+use of perspective in King Lear, pointing out that it may be the first
+time that a writer has employed the use of a three-dimensional first
+person perspective on a scene within the context of a literary
+work. For McLuhan, the interesting point here is that the written word
+seems to been reaching out beyond the page, and evoking our other
+senses to aid our perception of the scene.
+</p>
+
+<p>
+Print is an extension of writing, which itself is an extension of
+speaking and in turn thinking. The process is inherently circular,
+a new technology emerges to form a super set of the technology that
+immediately preceded it.
+</p>
+
+<p>
+For McLuhan, technology is always an extension of the mind (the
+cognitive/sensory apparatus) and therefor it influences the formation
+of ideas.
+</p>
+</div>
+</div>
+
+
+<div id="outline-container-orgb5f3ed2" class="outline-4">
+<h4 id="orgb5f3ed2"><span class="section-number-4">4.1.4</span> The Medium is the message</h4>
+<div class="outline-text-4" id="text-4-1-4">
+<p>
+<a href="https://web.mit.edu/allanmc/www/mcluhan.mediummessage.pdf">https://web.mit.edu/allanmc/www/mcluhan.mediummessage.pdf</a>
+</p>
+
+<ul class="org-ul">
+<li>The nature of human relationships, interaction and work was shaped
+by the first industrial revolution: the introduction of the machine
+and the philosophy of the "division of labor"
+<ul class="org-ul">
+<li>The essence of the electronic/digital revolution is entirely the
+opposite of this because (integral &amp; decentralised)</li>
+</ul></li>
+
+<li>First principles look at the nature of certain types of business in
+the (post)-industrialized world
+<ul class="org-ul">
+<li>IBM &rarr; information processing</li>
+<li>AT&amp;T &rarr; moving information</li>
+</ul></li>
+
+<li>Does technology add itself on to what we already are?</li>
+
+<li>What does it mean to understanding the "grammar" of a particular technology?</li>
+
+<li>How are artists in a unique position to encounter technology?</li>
+
+<li>The fact that it is currently being debated as to whether big tech
+should be treated as utilities is reminiscent of the idea that
+technological media are resources comparable to water, coal, cotton
+and oil.</li>
+
+<li>Bertrand Russell: the technique of the suspended judgement was the
+great discovery of the twentieth century</li>
+
+<li>A.N. Whitehead said that of the 19th century it was the discovery of
+the technique of discovery (starting with a result and working
+backwards)</li>
+
+<li>The work of the artist represents the only documentation of the
+continuous adjustment to the various new factors of personal and
+social life as they are extended.</li>
+
+<li>The artists job is to engage with the present totally</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+
+
+<div id="outline-container-orga355536" class="outline-2">
+<h2 id="orga355536"><span class="section-number-2">5</span> Computing: Another historical interlude</h2>
+<div class="outline-text-2" id="text-5">
+<p>
+"Give me six hours to chop down a tree and I will spend the first four sharpening the ax"
+</p>
+<ul class="org-ul">
+<li>Abraham Lincoln</li>
+</ul>
+
+<p>
+The next couple of sections serve to offer a very brief overview of the history of computing. Although computers are ubiquitous and a thorough discussion of the history of their development might be of more interest to those with a more technical interest, the culture around computing is actually pretty interesting. We've been talking a lot over the past couple of lectures about some of the sociological developments that have taken place over the past 150-200 years. We've focused on the artist and the means of production used to make art. Also, we've asked some fairly general questions about how the context within which art is made (or taught) influences the production. The purpose of this rather long-winded exposition is to spend some time reasoning about our current environment. The better that we are able to perceive the situation, the more likely it is we will reach for the right tool when it comes time to do the work.
+</p>
+</div>
+
+<div id="outline-container-orga9f8c89" class="outline-3">
+<h3 id="orga9f8c89"><span class="section-number-3">5.1</span> What the hell is a Unix?</h3>
+<div class="outline-text-3" id="text-5-1">
+<p>
+Unix is a simple operating system that was born in 1969, invented by Ken Thompson at Bell Laboratories (a research branch of AT&amp;T). This is not really the place to go into a detailed history of how it developed, if you are interested, check out Brian Kernighan's writings on the subject, along with Eric S. Raymond and Mike Loukides. All will offer a slightly different perspective on the origins of Unix and how it has developed over the years.
+</p>
+
+<p>
+There are some diverging opinions on why Unix has been successful as an operating system. It's not uncommon to hear people speaking in hushed tones about free software and the open source movement as reasons for its longevity and success. Others will put it down to factors associated with the nature of the computer hardware business in the 1980s. Either case is not particularly important to understand for our purposes. What is important is that there seems to be some consensus around how its use in Universities and research environments ultimately contributed to its popularity. The point here being, that the University is still one of the rare places where a more open-ended form of creativity is encouraged. Unix suits researchers because it is accessible, easy to use and fun to hack.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org47b6095" class="outline-3">
+<h3 id="org47b6095"><span class="section-number-3">5.2</span> History of the internet</h3>
+<div class="outline-text-3" id="text-5-2">
+<ul class="org-ul">
+<li>invented as a way for mutually trusting and cooperative parties to exchange information for the common good</li>
+<li>for a more detailed history see &#x2026; the internet</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-org908ac10" class="outline-3">
+<h3 id="org908ac10"><span class="section-number-3">5.3</span> Internet overview</h3>
+<div class="outline-text-3" id="text-5-3">
+</div>
+<div id="outline-container-org347ea00" class="outline-4">
+<h4 id="org347ea00"><span class="section-number-4">5.3.1</span> Devices</h4>
+<div class="outline-text-4" id="text-5-3-1">
+<ul class="org-ul">
+<li>host = end system, runs apps</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-orgc6d8809" class="outline-4">
+<h4 id="orgc6d8809"><span class="section-number-4">5.3.2</span> Communication Links</h4>
+<div class="outline-text-4" id="text-5-3-2">
+<ul class="org-ul">
+<li>fiber, copper, radio, satellite</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-orgee61519" class="outline-4">
+<h4 id="orgee61519"><span class="section-number-4">5.3.3</span> Packet switches</h4>
+<div class="outline-text-4" id="text-5-3-3">
+<ul class="org-ul">
+<li>routers and switches</li>
+</ul>
+</div>
+</div>
+</div>
+
+<div id="outline-container-org38f6917" class="outline-3">
+<h3 id="org38f6917"><span class="section-number-3">5.4</span> Service view of the internet</h3>
+<div class="outline-text-3" id="text-5-4">
+</div>
+<div id="outline-container-orgc40ca09" class="outline-4">
+<h4 id="orgc40ca09"><span class="section-number-4">5.4.1</span> Provider of services to apps</h4>
+<div class="outline-text-4" id="text-5-4-1">
+<ul class="org-ul">
+<li>Web, VoIP, email, games, eCommerce, social net</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-org7212529" class="outline-4">
+<h4 id="org7212529"><span class="section-number-4">5.4.2</span> Programming interface to apps</h4>
+<div class="outline-text-4" id="text-5-4-2">
+<ul class="org-ul">
+<li>hooks</li>
+<li>service options (postal)</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+
+
+
+<div id="outline-container-orgedfe22d" class="outline-2">
+<h2 id="orgedfe22d"><span class="section-number-2">6</span> Hackers and the open source movement</h2>
+<div class="outline-text-2" id="text-6">
+</div>
+<div id="outline-container-org9fcab99" class="outline-3">
+<h3 id="org9fcab99"><span class="section-number-3">6.1</span> Eric Raymond</h3>
+<div class="outline-text-3" id="text-6-1">
+</div>
+<div id="outline-container-org20bd625" class="outline-4">
+<h4 id="org20bd625"><span class="section-number-4">6.1.1</span> How to become a hacker</h4>
+<div class="outline-text-4" id="text-6-1-1">
+<p>
+<a href="http://www.catb.org/esr/faqs/hacker-howto.html">http://www.catb.org/esr/faqs/hacker-howto.html</a>
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgf0aaa3d" class="outline-4">
+<h4 id="orgf0aaa3d"><span class="section-number-4">6.1.2</span> The new hacker's dictionary</h4>
+<div class="outline-text-4" id="text-6-1-2">
+<p>
+<a href="http://hackersdictionary.com/html/index.html">http://hackersdictionary.com/html/index.html</a>
+</p>
+</div>
+</div>
+</div>
+</div>
+
+
+<div id="outline-container-org77971d3" class="outline-2">
+<h2 id="org77971d3"><span class="section-number-2">7</span> Access to information</h2>
+<div class="outline-text-2" id="text-7">
+<ul class="org-ul">
+<li>Public libraries</li>
+<li>University/Specialist Libraries
+<ul class="org-ul">
+<li>MdW -&gt; any registered student in Ausria can get a library card</li>
+<li>Nationalbibliothek</li>
+</ul></li>
+<li>Bootleg libraries
+<ul class="org-ul">
+<li>use a onion browser that masks your IP address to find bootleg libraries</li>
+<li>Tor browser to access Library Genesis <a href="https://gen.lib.rus.ec">https://gen.lib.rus.ec</a></li>
+</ul></li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-orgbc80459" class="outline-2">
+<h2 id="orgbc80459"><span class="section-number-2">8</span> Media theory now (in 2020)</h2>
+<div class="outline-text-2" id="text-8">
+</div>
+<div id="outline-container-org6fe028d" class="outline-3">
+<h3 id="org6fe028d"><span class="section-number-3">8.1</span> Douglas Rushkoff and Team Human</h3>
+<div class="outline-text-3" id="text-8-1">
+</div>
+<div id="outline-container-orgb020795" class="outline-4">
+<h4 id="orgb020795"><span class="section-number-4">8.1.1</span> Program or be Programmed</h4>
+<div class="outline-text-4" id="text-8-1-1">
+<p>
+<a href="https://www.youtube.com/watch?v=imV3pPIUy1k&amp;feature=youtu.be">https://www.youtube.com/watch?v=imV3pPIUy1k&amp;feature=youtu.be</a>
+</p>
+</div>
+</div>
+
+<div id="outline-container-org7aa1328" class="outline-4">
+<h4 id="org7aa1328"><span class="section-number-4">8.1.2</span> Team Human Podcast</h4>
+<div class="outline-text-4" id="text-8-1-2">
+<p>
+<a href="https://teamhuman.fm">https://teamhuman.fm</a>
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-org9be5f6f" class="outline-3">
+<h3 id="org9be5f6f"><span class="section-number-3">8.2</span> The Social Dilemma</h3>
+<div class="outline-text-3" id="text-8-2">
+<ul class="org-ul">
+<li>Critical</li>
+<li>Real information less interesting than fake news</li>
+<li>Reality / Hyper-reality</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-org12ea4b6" class="outline-3">
+<h3 id="org12ea4b6"><span class="section-number-3">8.3</span> Hyperreality</h3>
+<div class="outline-text-3" id="text-8-3">
+<ul class="org-ul">
+<li>Concept that was introduced by the French Philosopher Baudrilard</li>
+</ul>
+</div>
+</div>
+</div>
+
+<div id="outline-container-org20b401e" class="outline-2">
+<h2 id="org20b401e"><span class="section-number-2">9</span> A brief history of epistemology</h2>
+<div class="outline-text-2" id="text-9">
+</div>
+<div id="outline-container-orgedf2c1c" class="outline-3">
+<h3 id="orgedf2c1c"><span class="section-number-3">9.1</span> A few short points on the formation of knowledge</h3>
+<div class="outline-text-3" id="text-9-1">
+</div>
+<div id="outline-container-org669d3b6" class="outline-4">
+<h4 id="org669d3b6"><span class="section-number-4">9.1.1</span> Ancient</h4>
+</div>
+<div id="outline-container-org4846d07" class="outline-4">
+<h4 id="org4846d07"><span class="section-number-4">9.1.2</span> Early Modern</h4>
+</div>
+<div id="outline-container-org178e258" class="outline-4">
+<h4 id="org178e258"><span class="section-number-4">9.1.3</span> National States Period</h4>
+</div>
+<div id="outline-container-org0175e7f" class="outline-4">
+<h4 id="org0175e7f"><span class="section-number-4">9.1.4</span> Contemporary Perspectives</h4>
+</div>
+</div>
+</div>
+
+
+<div id="outline-container-org2bc570a" class="outline-2">
+<h2 id="org2bc570a"><span class="section-number-2">10</span> Adaptation and Adoption</h2>
+<div class="outline-text-2" id="text-10">
+</div>
+<div id="outline-container-orge4b862b" class="outline-3">
+<h3 id="orge4b862b"><span class="section-number-3">10.1</span> Features of Intagibles</h3>
+<div class="outline-text-3" id="text-10-1">
+</div>
+<div id="outline-container-org18912cf" class="outline-4">
+<h4 id="org18912cf"><span class="section-number-4">10.1.1</span> Sunkness</h4>
+</div>
+<div id="outline-container-orgb816302" class="outline-4">
+<h4 id="orgb816302"><span class="section-number-4">10.1.2</span> Scalability</h4>
+</div>
+<div id="outline-container-orge29949c" class="outline-4">
+<h4 id="orge29949c"><span class="section-number-4">10.1.3</span> Synergy</h4>
+</div>
+<div id="outline-container-org01fc9ec" class="outline-4">
+<h4 id="org01fc9ec"><span class="section-number-4">10.1.4</span> Side effects&#xa0;&#xa0;&#xa0;<span class="tag"><span class="w">w</span></span></h4>
+</div>
+</div>
+
+
+<div id="outline-container-org802e508" class="outline-3">
+<h3 id="org802e508"><span class="section-number-3">10.2</span> Shared Strategies – the automaton/FSM blues</h3>
+<div class="outline-text-3" id="text-10-2">
+
+<div class="figure">
+<p><img src="../img/blues_flowEng.png" alt="blues_flowEng.png" />
+</p>
+</div>
+
+<p>
+<a href="https://youtu.be/AibHJB_jlBI">https://youtu.be/AibHJB_jlBI</a>
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-org5482033" class="outline-2">
+<h2 id="org5482033"><span class="section-number-2">11</span> Course Work</h2>
+<div class="outline-text-2" id="text-11">
+<p>
+Semester requirements are to do the readings, and submit two essays,
+one short (ca. 1000 words) and one longer (ca. 2500 words). Actually,
+the medium that you present these works is flexible - in the past
+students have produced podcasts, written essays, made lesson
+plans. The important thing is that you work on forming an idea an
+presenting it in a coherent way.
+</p>
+</div>
+
+<div id="outline-container-org13e010f" class="outline-3">
+<h3 id="org13e010f"><span class="section-number-3">11.1</span> Where are the best places to borrow ideas?</h3>
+</div>
+<div id="outline-container-org1b32eb4" class="outline-3">
+<h3 id="org1b32eb4"><span class="section-number-3">11.2</span> Can we please make music theory a little less boring?</h3>
+</div>
+</div>
+</div>
+<div id="postamble" class="status">
+<p class="author">Author: adam</p>
+<p class="date">Created: 2020-12-17 Thu 17:31</p>
+<p class="validation"><a href="http://validator.w3.org/check?uri=referer">Validate</a></p>
+</div>
+</body>
+</html>
