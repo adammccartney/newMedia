@@ -617,11 +617,144 @@ information about the real world).
 
 
 * A brief history of epistemology
-** A few short points on the formation of knowledge
-*** Ancient
-*** Early Modern
-*** National States Period
-*** Contemporary Perspectives
+
+[[https://www.britannica.com/topic/epistemology/The-history-of-epistemology  ]]
+
+Epistemology is the branch of philosophy that is concerned with the
+knowledge and limits of human knowledge. It comes from two greek
+words: /epistēmē/ ("knowledge") and /logos/ ("reason"). It can be
+considered alongside metaphysics, logic and ethics as one of the four
+main branches of philosophy. It is worth noting that all four branches
+have been the subject of intense focus and rigorous discipline a
+number of times throughout the ages. These days, it's not uncommon to
+hear the term philosopher employed in slight jest to refer to someone
+who is interested in some of the "bigger ideas" about in the world,
+and not necessarily concerned about  sweating the details. While there
+are of course bad philosophers who fit this discription, the
+disciplines within philosophy itself can be extrememly technical. In
+this way it is much like science or music. You don't have to be a
+genius to take part and make a contribution, you just have to show up
+and do the work. 
+
+
+** Ancient
+*** Plato
+ca. 5th-4th century BCE
+
+The theory of forms - Plato had this idea that all reality was somehow
+related to a set of ideal forms that existed in a purely conceptual or
+abstract realm. This is an idea that goes back to Pythagoras and the
+harmony of the spheres - the idea that musical harmony and beauty is
+someone a true expression of the nature of reality.
+[[https://youtu.be/_-JfYjmo5OA]]
+
+The allegory of the cave
+[[https://youtu.be/1RWOpQXTltA]]
+
+
+*** Aristotle
+384-322 BCE
+Broadly remembered as a "natural philospher". Less concerned with
+ideal forms and moreso with the nature of the world around him,
+understood in terms of first principles i.e. a set of predicates
+about the nature of a particular system that can be knowable through
+direct experience (this is the basis of the scientific method) and
+also a set of truths which may be derived logically from the first
+principles. Scientific truth can be demostrated by means of syllogisms
+
+All stars are distant objects.
+All distant objects twinkle.
+Therefore, all stars twinkle.
+
+Interestingly, Aristotle extends his interest in material truth to the
+human soul, the anima. 
+
+*** St. Augustine
+354-430 AD
+With St. Augustine of Hippo we see the embrace of Christianity,
+largely known as neoplatonism. It represented a return to glofication
+of ideals.
+
+As we have pointed out elsewhere in this course, the preservation of
+thoughts and ideas, along with the making of art and music, was
+largely influenced by the christian church throughout the middle
+ages and into the renaissance. Indeed we see that many philosophers
+are themselves members of the clergy or thereby closely associated 
+(Thomas Aquinas, Meister Eckhart, Thomas More). During these periods
+leading up to the renaissance and scientific revolution, there seems
+to have been a fairly substantial preoccupation with metaphysics,
+attempts to prove the existance of God and often great attempts to
+make other areas of philosophy fit a metaphysical narrative that was
+largely sympathetic to to the christian doctrine.     
+
+*** Thomas Aquinas
+die Ratio Perfecta bonitatis
+
+ipsum esse (existence itself)
+
+The mind seeks its completion in knowing existence.
+
+
+*** John Duns Scotus 
+1266 - 1308
+Forerunner to David Hume. Basically these philosophers were
+redeiscovering the works of aristotle as they were being passed back
+to the fringes of europe via the islamic scholars.
+
+** Modern Philosophy
+Still initially concerned with proof of the existence of God
+i.e. Descartes meditations and Spinoza'a ethics. Stil, there is
+further sedimentation of the idea of the formation of knowledge as
+essentially bipartite - one part sensory experience of reality, the
+other part imagination. This is laid out in particular over the course
+of three books that are commonly associated with the Scottish
+Enlightenment (although Locke was English and Berkely Irish).
+
+*** John Locke
+An essay concerning human understanding (1690)
+Belief in the existance of mind, substance and causation.
+
+*** Bishop Berkely 
+Principles of Human Knowledge (1719)
+
+Rejects notions of primary and secondary qualities and matter, retains
+belief in the existence of mind 
+
+```
+There was a young man who said "God"
+Must find it exceedingly odd 
+To think that a tree 
+Should continue to be 
+When there's no one about in the quad.
+
+Dear Sir. Your astonishment's odd;
+I am always about in the quad.
+And that'S why the tree
+Will continue to be 
+Since observed by, Yours faithfully, God.
+```
+
+
+*** David Hume
+An enquiry concerning human understanding (1739)
+
+Throws out all Lockean assumptions and focuses on kinds of
+perceptions "impressions" and "ideas"
+
+*** Immanuel Kant
+Idealism refers to the idea tha everything that exists is mental. 
+transcendental idealism was Kant's schtick. Basically that there
+is pre-existing knowledge of which humans are innately aware. This is
+formed and extended through their interactions with reality.   
+
+** Modern Philosophy
+
++ Bertrand Russell
++ Ludwig Wittgenstein
++ George Herbert Meade
++ John Dewey
++ Jean Piaget
++ Jean-Paul Sartre
 
 
 * Course Work
