@@ -693,32 +693,116 @@ die Ratio Perfecta bonitatis
 ipsum esse (existence itself)
 
 The mind seeks its completion in knowing existence.
+His discussion in the Summa theologiae is an elaboration of the thoought
+of Aristotle. He posits that knowledge is obtained when the intellect 
+engages actively with an object that is received through the senses. 
 
+In a way this can be shown to relate to the practice of syllogism
+that we encountered earlier. Aquinas gave the example of the perception
+of an animal such as a dog, then by observing the fact that the dog is
+alive, being able to form the abstraction of life from there. Therefor, 
+the properties of a specific object or being do not just merely convey
+information about one particular dog, but enable understanding of the 
+broader context within which a dog exists.
 
 *** John Duns Scotus 
 1266 - 1308
 Forerunner to David Hume. Basically these philosophers were
-redeiscovering the works of aristotle as they were being passed back
-to the fringes of europe via the islamic scholars.
+redeiscovering the works of Aristotle as they were being passed back
+to the fringes of europe via the islamic scholars. Scotus' work
+revolves around `four main classes of things that can be known
+with certainty`. 
+1. Things that are known to be simply true, including true identity
+   statements abnd propositions (later analytic) such as Man is 
+   rational. From Scotus' point of view, these truthes coincide
+   with what makes them true. 
+2. Experiential knowledge -> this gave rise to a confidence in 
+   induction i.e. if something can be perceived to be true for 
+   some thing, or if some action necessarily always produces 
+   the same results in similar things, then it can be inferred 
+   to be a general property of the action itself and therefor 
+   true for all things. This is not a belief that survived the 
+   middle ages.
+3. Perception and apprehension of ones own actions or state 
+   of being. If you are awake, you know yourself to be awake.
+4. The class of things knowable through the human senses.
+
+The major contribution that Duns Scotus made to epistemology 
+was to highlight the distinction between "intuitive" and "abstract"
+cognition.
+
 
 ** Modern Philosophy
-Still initially concerned with proof of the existence of God
-i.e. Descartes meditations and Spinoza'a ethics. Stil, there is
-further sedimentation of the idea of the formation of knowledge as
-essentially bipartite - one part sensory experience of reality, the
-other part imagination. This is laid out in particular over the course
-of three books that are commonly associated with the Scottish
-Enlightenment (although Locke was English and Berkely Irish).
+While we often think about philosophers as purely secular thinkers,
+in reality this was far from the truth, particularly in the middle
+ages and early modern period, philosophers were still largely preoccupied 
+with proof of the existence of God i.e. Descartes meditations and Spinoza'a 
+ethics, even large swathes of Kant's work is done largely in an effort 
+to rationalize (and therefor legitimize in the modern sense) existing 
+christian morals. 
+That said Stil, there is further sedimentation of the idea of the 
+formation of knowledge as essentially bipartite - one part sensory 
+experience of reality, the other part imagination. This is laid out in 
+particular over the course of three books that are commonly associated 
+with the Scottish Enlightenment (although Locke was English and Berkely Irish).
+
+*** Nicolaus Copernicus
+Argument for heliocentricity in On the Revolutions of the Celestial Spheres.
+Epistemologically shocking for a number of reasons:
++ directly contravenes the way that humans perceive the sun
++ contradicted existing written accounts in the bible
+
+*** Galileo Galilei
+Used a telescope to reveal that unaided human vision gives false, or
+at least seriously incomplete information about the celestial bodies. 
+(As an aside, Benedict Spinoza was a lense grinder as well as being
+a philosopher.)
+Distinction between primary and secondary properties of an object. 
+Primary: mass, dimensions (exist in objective physical reality)
+Secondary: color, smell (exist in the sensory perceptions)
+
+*** Rene Descartes 
+Inflenced by the rediscover of skepticism and the emergence of modern 
+science. Although he thought that reason and science would one day make
+men the masters of nature, he had at least one issue with skepticism 
+and sought to make it the central focus of his meditations. In meditations
+he paints a picture of a dual being (body and mind) and considers the 
+possibility that some evil genius has deceived him to such an extent
+that all his beliefs are infact false. His contention was that this cannot 
+be true in the fullest sense, for to have such beliefs, false or otherwise,
+he is thinking and then he exists. Therefor, his belief that he exists 
+cannot be false, as long as he is thinking. The argument is most famously 
+summarized by the line *cogito, ergo sum* ("I think, therefor I am").
+
++ Went to to make the distinction between two diferent sources of knowledge:
+  intuition and induction
++ also proved the existence of God (to his own satisfaction)
++ believed the ultimate source of knowledge to be reason
++ it was fairly widely aknowledged that much of Descartes' philosophical 
+  work it tautological (it relies on itself to be true)
++ his most lasting contribution has been coordinate geometry
 
 *** John Locke
+Held the belief that experience was the ultimate arbiter of knowledge and 
+went on to categories two kinds of experience sensation and reflection. 
+
 An essay concerning human understanding (1690)
-Belief in the existance of mind, substance and causation.
+Definition of knowledge as: "the perception of the connexion of and agreement,
+or disagreement and repugnancy of any of our ideas."
+Knowledge is contained within three categories:
+1. intuitive knowledge
+2. demonstration or proof
+3. sensitive knowledge - "the particualr existence of finite beings without us"
+
+He also opens up to formally include probablity alongsie certainty through 
+knowledge. 
 
 *** Bishop Berkely 
-Principles of Human Knowledge (1719)
+A Treatise Concerning the Principles of Human Knowledge (1719)
 
 Rejects notions of primary and secondary qualities and matter, retains
-belief in the existence of mind 
+belief in the existence of mind. 
+Makes the assertion that notion exists except ideas and spirits. 
 
 ```
 There was a young man who said "God"
@@ -733,21 +817,57 @@ And that'S why the tree
 Will continue to be 
 Since observed by, Yours faithfully, God.
 ```
-
+Basically, Berkely believed that for any nonthinking being, *esse est percipi* 
+("to be is to be perceived").
 
 *** David Hume
 An enquiry concerning human understanding (1739)
 
 Throws out all Lockean assumptions and focuses on kinds of
-perceptions "impressions" and "ideas"
+perceptions "impressions" and "ideas". Impressions are what the mind experiences 
+most vividly and ideas are the "faint images" of impressions. Impressions are 
+felt and ideas are thought. 
+
+Hume overlooked the fact that it is not possible to quantify emotinoal experience 
+in terms of these two categories - i.e. thinking about happiness is not a lighter
+version of being happy.
+
+Perceptions are either simple or complex and this is true for impressions and ideas. 
+For instance the perception of an apple is complex in that it consists of a combination
+of shape, color, texture and smell. Complex impressions and complex ideas need not 
+correspond to one another. The famous example is of Pegasus. However, the formation of 
+every simple idea is preceded by the experience of a simple impression. Hume therefor
+draws a causal link between simple impressions and simple ideas (the former causes the 
+latter).
+
 
 *** Immanuel Kant
 Idealism refers to the idea tha everything that exists is mental. 
 transcendental idealism was Kant's schtick. Basically that there
 is pre-existing knowledge of which humans are innately aware. This is
-formed and extended through their interactions with reality.   
+formed and extended through their interactions with reality. Or put another way, 
+all theoretical knowledge (i.e. scientific fact) is a mixture of what is given
+in sense experience and what is contributed by the mind. 
 
-** Modern Philosophy
+Kant also believed that there existed a world unknowable to the mind that is 
+fully independent. This world consists of "things-in-themselves" (noumena),
+which do not exist in space and do not enter into causal relations.
+
+Kant's assertions about the mind being the primary source of knowledge about 
+many aspects of reality essentially turns the tables or inverts the traditional
+world - mind reltaionship of epistemology up to this point. Kant thought about 
+it as a type of Copernican revolution for philosophy.
+
+Three kinds of proposition that express human knowledge:
+1. analytic a priori propositions - "All squares have four sides"
+2. synthetic a posteriori propositions - "The cat is on the mat"
+3. synthetic a priori - "Every event has a cause"
+
+*** Hegel 
+
+
+** Contemporary Philosophy
+We covered many of the key figures earlier in the course
 
 + Bertrand Russell
 + Ludwig Wittgenstein
